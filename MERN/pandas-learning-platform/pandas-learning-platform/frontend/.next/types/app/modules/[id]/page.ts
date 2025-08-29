@@ -1,8 +1,8 @@
 // File: C:\Users\hp\Desktop\Learn\MERN\pandas-learning-platform\pandas-learning-platform\frontend\src\app\modules\[id]\page.tsx
-import * as entry from '../../../../../src/app/modules/[id]/page.js'
+import * as entry from '../../../../../src/app/modules/[moduleId]/page.jsx'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../../src/app/modules/[id]/page.js')
+type TEntry = typeof import('../../../../../src/app/modules/[moduleId]/page.jsx')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

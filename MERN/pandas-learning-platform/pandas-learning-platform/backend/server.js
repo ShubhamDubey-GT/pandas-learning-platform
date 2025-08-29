@@ -1,3 +1,4 @@
+
 const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
@@ -7,12 +8,11 @@ const compression = require('compression');
 const rateLimit = require('express-rate-limit');
 require('dotenv').config();
 
-const errorHandler = require('./src/middleware/errorHandler');
-const {connectDatabase} = require('./src/config/database');
+const { connectDatabase } = require('./src/config/database');
 
 // Import Routes
 const authRoutes = require('./src/routes/auth');
-const userRoutes = require('./src/routes/users');
+const userRoutes = require('./src/routes/users');  
 const moduleRoutes = require('./src/routes/modules');
 const progressRoutes = require('./src/routes/progress');
 
@@ -40,7 +40,9 @@ app.use(limiter);
 const corsOptions = {
   origin: process.env.FRONTEND_URL || 'http://localhost:3000',
   credentials: true,
-  optionsSuccessStatus: 200
+  optionsSuccessStatus: 200,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'x-csrf-token'],
 };
 
 app.use(cors(corsOptions));
@@ -56,9 +58,11 @@ app.use(cookieParser());
 app.get('/health', (req, res) => {
   res.status(200).json({
     status: 'success',
-    message: 'Server is running successfully',
+    message: 'Pandas Learning Platform API is running',
     timestamp: new Date().toISOString(),
-    environment: process.env.NODE_ENV || 'development'
+    environment: process.env.NODE_ENV || 'development',
+    version: '1.0.0',
+    database: global.DB_TYPE || 'not connected'
   });
 });
 
@@ -68,27 +72,60 @@ app.use('/api/users', userRoutes);
 app.use('/api/modules', moduleRoutes);
 app.use('/api/progress', progressRoutes);
 
+// Root endpoint
+app.get('/', (req, res) => {
+  res.json({
+    message: 'Welcome to Pandas Learning Platform API',
+    status: 'active',
+    endpoints: {
+      health: '/health',
+      auth: '/api/auth',
+      modules: '/api/modules', 
+      progress: '/api/progress',
+      users: '/api/users'
+    }
+  });
+});
+
 // 404 Handler
 app.use('*', (req, res) => {
   res.status(404).json({
     status: 'error',
-    message: `Route ${req.originalUrl} not found`
+    message: `Route ${req.originalUrl} not found`,
+    availableEndpoints: ['/health', '/api/auth', '/api/modules', '/api/progress', '/api/users']
   });
 });
 
 // Global Error Handler
-app.use(errorHandler);
+app.use((err, req, res, next) => {
+  console.error('Error:', err);
+  res.status(err.statusCode || 500).json({
+    status: 'error',
+    message: err.message || 'Internal server error'
+  });
+});
 
 // Start Server
 const server = app.listen(PORT, () => {
   console.log(`
-🚀 Pandas Learning Platform Backend Server is running!
+🚀 Pandas Learning Platform Backend is READY!
 🌍 Environment: ${process.env.NODE_ENV || 'development'}
-📡 Server URL: http://localhost:${PORT}
-🏥 Health Check: http://localhost:${PORT}/health
-📚 API Base URL: http://localhost:${PORT}/api
-🔗 Frontend URL: ${process.env.FRONTEND_URL || 'http://localhost:3000'}
-⏰ Started at: ${new Date().toISOString()}
+📡 Server: http://localhost:${PORT}
+🏥 Health: http://localhost:${PORT}/health
+📚 API: http://localhost:${PORT}/api
+🔗 Frontend: ${process.env.FRONTEND_URL || 'http://localhost:3000'}
+⏰ Started: ${new Date().toISOString()}
+
+🎯 Available Endpoints:
+   • POST /api/auth/register - User registration
+   • POST /api/auth/login - User login
+   • GET  /api/auth/me - Current user info
+   • GET  /api/modules - All learning modules
+   • GET  /api/modules/:id - Specific module
+   • POST /api/progress - Update topic progress
+   • GET  /api/progress - User progress summary
+
+Ready for pandas learning! 🐼📚
   `);
 });
 

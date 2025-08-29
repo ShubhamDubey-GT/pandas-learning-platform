@@ -1,28 +1,24 @@
+
 const express = require('express');
+const { 
+  updateProgress, 
+  getUserProgress, 
+  getModuleProgress 
+} = require('../controllers/progressController');
 const { authenticate } = require('../middleware/auth');
 
 const router = express.Router();
 
-// Progress routes will be implemented here
-router.get('/', authenticate, (req, res) => {
-  res.json({ 
-    status: 'success',
-    data: { 
-      progress: [],
-      summary: {
-        totalTopicsCompleted: 0,
-        totalTimeSpent: 0,
-        currentStreak: 0
-      }
-    }
-  });
-});
+// All progress routes require authentication
+router.use(authenticate);
 
-router.post('/', authenticate, (req, res) => {
-  res.json({ 
-    status: 'success',
-    message: 'Progress updated successfully' 
-  });
-});
+// Update user progress for a topic
+router.post('/', updateProgress);
+
+// Get user's overall progress
+router.get('/', getUserProgress);
+
+// Get user's progress for specific module
+router.get('/:moduleId', getModuleProgress);
 
 module.exports = router;
