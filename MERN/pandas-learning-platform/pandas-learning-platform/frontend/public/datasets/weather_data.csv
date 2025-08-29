@@ -1,0 +1,1461 @@
+city,date,temperature,humidity,pressure,weather_condition
+New York,2023-01-01,53.9,71.0,30.37,Sunny
+New York,2023-01-02,66.1,32.3,30.22,Cloudy
+New York,2023-01-03,58.3,35.7,29.63,Sunny
+New York,2023-01-04,53.6,41.4,29.96,Cloudy
+New York,2023-01-05,58.4,70.3,30.14,Rainy
+New York,2023-01-06,64.1,55.1,29.57,Cloudy
+New York,2023-01-07,71.5,46.1,30.5,Rainy
+New York,2023-01-08,60.0,61.1,29.54,Rainy
+New York,2023-01-09,62.7,56.9,30.46,Cloudy
+New York,2023-01-10,72.1,86.7,30.17,Snowy
+New York,2023-01-11,76.0,45.4,30.3,Rainy
+New York,2023-01-12,69.1,39.9,30.0,Snowy
+New York,2023-01-13,67.2,41.6,30.11,Cloudy
+New York,2023-01-14,70.4,42.6,29.54,Sunny
+New York,2023-01-15,70.2,33.2,29.61,Sunny
+New York,2023-01-16,68.2,61.8,29.53,Rainy
+New York,2023-01-17,69.7,60.5,30.49,Rainy
+New York,2023-01-18,71.3,46.8,30.06,Cloudy
+New York,2023-01-19,75.7,68.0,29.64,Snowy
+New York,2023-01-20,73.9,46.7,30.0,Snowy
+New York,2023-01-21,74.2,56.4,30.05,Cloudy
+New York,2023-01-22,70.1,42.2,30.37,Sunny
+New York,2023-01-23,72.6,31.4,29.91,Sunny
+New York,2023-01-24,82.1,86.4,29.55,Snowy
+New York,2023-01-25,69.2,37.5,29.81,Snowy
+New York,2023-01-26,69.8,53.1,30.42,Cloudy
+New York,2023-01-27,69.7,83.2,29.64,Cloudy
+New York,2023-01-28,77.7,45.7,29.94,Cloudy
+New York,2023-01-29,70.3,77.1,29.99,Snowy
+New York,2023-01-30,81.7,73.3,30.44,Snowy
+New York,2023-01-31,70.8,67.1,30.17,Rainy
+New York,2023-02-01,75.2,36.9,29.63,Snowy
+New York,2023-02-02,80.9,45.1,30.16,Cloudy
+New York,2023-02-03,81.2,65.7,30.04,Rainy
+New York,2023-02-04,71.0,47.3,30.1,Cloudy
+New York,2023-02-05,86.8,89.8,29.93,Cloudy
+New York,2023-02-06,90.1,33.7,30.22,Rainy
+New York,2023-02-07,77.7,32.5,29.85,Snowy
+New York,2023-02-08,81.8,86.9,29.99,Snowy
+New York,2023-02-09,80.4,33.3,30.04,Rainy
+New York,2023-02-10,74.6,56.9,30.3,Sunny
+New York,2023-02-11,83.1,72.8,30.42,Sunny
+New York,2023-02-12,83.5,75.0,30.23,Rainy
+New York,2023-02-13,91.3,58.9,30.12,Rainy
+New York,2023-02-14,80.3,80.2,29.66,Sunny
+New York,2023-02-15,72.2,66.2,29.8,Cloudy
+New York,2023-02-16,78.4,56.6,30.39,Rainy
+New York,2023-02-17,74.8,31.6,29.72,Sunny
+New York,2023-02-18,82.6,89.0,30.34,Sunny
+New York,2023-02-19,84.6,35.1,30.31,Snowy
+New York,2023-02-20,74.2,50.9,30.42,Snowy
+New York,2023-02-21,85.4,77.0,30.35,Rainy
+New York,2023-02-22,90.2,42.6,30.04,Cloudy
+New York,2023-02-23,87.3,43.5,29.71,Cloudy
+New York,2023-02-24,84.5,84.5,30.23,Snowy
+New York,2023-02-25,85.5,80.1,29.87,Sunny
+New York,2023-02-26,82.6,36.9,29.83,Cloudy
+New York,2023-02-27,87.6,34.5,29.75,Cloudy
+New York,2023-02-28,81.6,72.9,30.12,Cloudy
+New York,2023-03-01,85.5,78.3,30.47,Snowy
+New York,2023-03-02,87.8,71.8,30.17,Cloudy
+New York,2023-03-03,86.1,38.7,29.94,Sunny
+New York,2023-03-04,85.4,47.7,29.76,Sunny
+New York,2023-03-05,76.5,72.8,29.87,Rainy
+New York,2023-03-06,87.9,66.5,29.9,Cloudy
+New York,2023-03-07,91.8,39.3,29.86,Snowy
+New York,2023-03-08,88.8,50.5,30.25,Rainy
+New York,2023-03-09,83.4,30.4,29.58,Snowy
+New York,2023-03-10,88.7,79.5,29.56,Sunny
+New York,2023-03-11,88.1,52.2,30.07,Sunny
+New York,2023-03-12,91.2,82.4,30.0,Cloudy
+New York,2023-03-13,89.5,54.6,29.97,Sunny
+New York,2023-03-14,83.4,51.4,29.68,Rainy
+New York,2023-03-15,84.3,53.0,30.35,Cloudy
+New York,2023-03-16,92.6,31.7,30.27,Rainy
+New York,2023-03-17,87.8,64.9,30.03,Sunny
+New York,2023-03-18,76.0,45.5,30.32,Snowy
+New York,2023-03-19,99.4,86.2,29.81,Rainy
+New York,2023-03-20,90.2,33.4,30.17,Cloudy
+New York,2023-03-21,85.5,73.7,29.7,Sunny
+New York,2023-03-22,82.7,48.3,30.02,Cloudy
+New York,2023-03-23,87.8,59.1,30.04,Snowy
+New York,2023-03-24,88.6,74.6,29.94,Snowy
+New York,2023-03-25,86.8,38.3,30.17,Cloudy
+New York,2023-03-26,100.9,45.4,29.91,Cloudy
+New York,2023-03-27,85.4,75.4,30.29,Rainy
+New York,2023-03-28,87.1,59.9,29.76,Snowy
+New York,2023-03-29,91.3,83.8,30.19,Cloudy
+New York,2023-03-30,83.2,56.3,29.91,Cloudy
+New York,2023-03-31,88.4,44.4,29.92,Cloudy
+New York,2023-04-01,92.2,51.5,30.31,Sunny
+New York,2023-04-02,98.4,74.8,30.39,Snowy
+New York,2023-04-03,96.5,46.7,30.15,Snowy
+New York,2023-04-04,87.7,44.8,29.56,Rainy
+New York,2023-04-05,99.7,61.4,30.37,Cloudy
+New York,2023-04-06,96.4,61.7,30.16,Sunny
+New York,2023-04-07,104.1,54.1,29.8,Sunny
+New York,2023-04-08,98.0,62.6,29.57,Rainy
+New York,2023-04-09,88.0,47.0,29.78,Cloudy
+New York,2023-04-10,96.3,74.5,30.16,Snowy
+New York,2023-04-11,81.9,48.3,29.52,Rainy
+New York,2023-04-12,96.9,52.7,29.8,Cloudy
+New York,2023-04-13,91.3,46.0,29.74,Snowy
+New York,2023-04-14,91.6,84.2,29.6,Sunny
+New York,2023-04-15,82.0,37.8,29.51,Cloudy
+New York,2023-04-16,87.6,35.4,29.94,Rainy
+New York,2023-04-17,101.2,83.2,30.39,Cloudy
+New York,2023-04-18,84.7,55.7,30.1,Cloudy
+New York,2023-04-19,94.4,58.4,29.5,Rainy
+New York,2023-04-20,89.4,86.0,29.84,Snowy
+New York,2023-04-21,94.7,40.7,30.39,Snowy
+New York,2023-04-22,93.2,86.3,29.67,Rainy
+New York,2023-04-23,91.0,81.2,30.24,Cloudy
+New York,2023-04-24,93.9,70.8,29.57,Rainy
+New York,2023-04-25,88.0,65.2,29.67,Snowy
+New York,2023-04-26,82.5,57.0,30.34,Rainy
+New York,2023-04-27,87.0,33.8,30.1,Snowy
+New York,2023-04-28,91.4,39.8,29.79,Sunny
+New York,2023-04-29,98.0,61.2,30.11,Snowy
+New York,2023-04-30,94.8,49.7,29.61,Snowy
+New York,2023-05-01,92.6,39.4,29.52,Rainy
+New York,2023-05-02,88.3,89.4,29.55,Cloudy
+New York,2023-05-03,93.4,65.9,29.77,Snowy
+New York,2023-05-04,75.0,82.5,30.44,Snowy
+New York,2023-05-05,86.3,54.6,29.83,Snowy
+New York,2023-05-06,90.5,53.9,29.82,Snowy
+New York,2023-05-07,80.4,89.9,29.69,Sunny
+New York,2023-05-08,80.2,61.6,29.56,Rainy
+New York,2023-05-09,77.0,62.1,30.29,Sunny
+New York,2023-05-10,90.7,74.4,29.93,Sunny
+New York,2023-05-11,77.2,36.0,29.55,Rainy
+New York,2023-05-12,84.5,77.7,29.98,Sunny
+New York,2023-05-13,83.2,86.1,30.1,Cloudy
+New York,2023-05-14,79.2,58.9,30.02,Rainy
+New York,2023-05-15,86.0,44.0,29.56,Snowy
+New York,2023-05-16,86.0,42.8,30.18,Sunny
+New York,2023-05-17,85.3,53.3,29.82,Cloudy
+New York,2023-05-18,78.9,84.2,29.66,Rainy
+New York,2023-05-19,82.4,47.3,30.09,Cloudy
+New York,2023-05-20,76.8,40.0,29.62,Cloudy
+New York,2023-05-21,69.7,80.2,29.81,Sunny
+New York,2023-05-22,80.5,65.9,29.57,Cloudy
+New York,2023-05-23,69.4,71.4,30.1,Cloudy
+New York,2023-05-24,73.0,49.6,30.13,Cloudy
+New York,2023-05-25,72.1,82.4,30.31,Cloudy
+New York,2023-05-26,75.0,61.9,29.8,Sunny
+New York,2023-05-27,71.9,39.1,29.76,Sunny
+New York,2023-05-28,71.8,35.0,30.12,Cloudy
+New York,2023-05-29,70.7,58.7,29.68,Cloudy
+New York,2023-05-30,71.5,76.1,29.77,Sunny
+New York,2023-05-31,81.7,30.3,30.44,Snowy
+New York,2023-06-01,76.1,51.5,29.65,Cloudy
+New York,2023-06-02,75.8,58.6,30.33,Cloudy
+New York,2023-06-03,85.2,59.5,30.4,Cloudy
+New York,2023-06-04,75.1,61.8,29.98,Sunny
+New York,2023-06-05,72.5,42.0,29.54,Rainy
+New York,2023-06-06,77.1,51.4,29.77,Cloudy
+New York,2023-06-07,76.6,81.1,29.98,Sunny
+New York,2023-06-08,73.3,52.8,30.26,Snowy
+New York,2023-06-09,74.8,84.7,30.12,Rainy
+New York,2023-06-10,72.8,40.3,30.35,Snowy
+New York,2023-06-11,72.1,66.9,29.54,Sunny
+New York,2023-06-12,63.0,73.3,30.36,Cloudy
+New York,2023-06-13,65.9,35.6,29.93,Rainy
+New York,2023-06-14,69.0,33.0,30.07,Cloudy
+New York,2023-06-15,65.7,59.9,29.81,Cloudy
+New York,2023-06-16,73.2,30.3,29.57,Sunny
+New York,2023-06-17,79.7,75.8,29.64,Sunny
+New York,2023-06-18,64.1,84.5,29.59,Sunny
+New York,2023-06-19,70.7,79.2,29.86,Snowy
+New York,2023-06-20,58.1,52.5,30.01,Cloudy
+New York,2023-06-21,62.5,54.0,30.45,Rainy
+New York,2023-06-22,64.3,71.5,30.4,Sunny
+New York,2023-06-23,70.0,69.6,29.97,Snowy
+New York,2023-06-24,65.1,68.6,30.35,Snowy
+New York,2023-06-25,60.1,56.2,30.25,Sunny
+New York,2023-06-26,58.9,70.3,30.01,Sunny
+New York,2023-06-27,61.0,86.1,30.33,Cloudy
+New York,2023-06-28,67.6,32.4,30.3,Cloudy
+New York,2023-06-29,61.4,31.9,30.45,Rainy
+New York,2023-06-30,67.9,39.6,30.4,Rainy
+New York,2023-07-01,55.6,70.0,30.41,Sunny
+New York,2023-07-02,57.5,69.7,29.89,Sunny
+New York,2023-07-03,63.1,76.0,29.85,Sunny
+New York,2023-07-04,64.2,36.1,30.18,Sunny
+New York,2023-07-05,56.4,45.0,30.31,Rainy
+New York,2023-07-06,65.9,31.3,29.54,Sunny
+New York,2023-07-07,61.6,34.7,29.86,Snowy
+New York,2023-07-08,60.9,48.6,30.36,Sunny
+New York,2023-07-09,52.4,66.2,29.99,Rainy
+New York,2023-07-10,59.8,30.2,29.51,Sunny
+New York,2023-07-11,62.8,47.1,30.09,Sunny
+New York,2023-07-12,60.7,85.0,30.5,Snowy
+New York,2023-07-13,53.9,62.3,30.16,Snowy
+New York,2023-07-14,54.9,31.1,30.43,Rainy
+New York,2023-07-15,66.6,53.0,30.23,Sunny
+New York,2023-07-16,51.1,56.9,30.33,Sunny
+New York,2023-07-17,54.2,85.8,29.98,Cloudy
+New York,2023-07-18,57.1,57.3,30.06,Cloudy
+New York,2023-07-19,51.1,84.6,30.44,Cloudy
+New York,2023-07-20,48.6,68.0,29.95,Rainy
+New York,2023-07-21,42.0,32.1,30.0,Rainy
+New York,2023-07-22,50.3,30.8,29.52,Cloudy
+New York,2023-07-23,53.7,34.5,30.0,Sunny
+New York,2023-07-24,50.1,30.5,29.76,Snowy
+New York,2023-07-25,53.8,56.0,29.98,Snowy
+New York,2023-07-26,48.6,61.4,29.78,Cloudy
+New York,2023-07-27,45.5,35.1,29.59,Snowy
+New York,2023-07-28,45.8,32.6,29.81,Sunny
+New York,2023-07-29,54.7,80.1,29.54,Cloudy
+New York,2023-07-30,45.6,69.8,30.03,Sunny
+New York,2023-07-31,36.0,55.0,30.22,Rainy
+New York,2023-08-01,47.0,39.5,30.29,Snowy
+New York,2023-08-02,41.7,78.3,29.57,Cloudy
+New York,2023-08-03,41.2,76.4,29.99,Cloudy
+New York,2023-08-04,45.8,82.8,29.91,Cloudy
+New York,2023-08-05,37.2,75.1,30.41,Snowy
+New York,2023-08-06,42.8,70.3,29.66,Snowy
+New York,2023-08-07,47.1,69.4,29.97,Rainy
+New York,2023-08-08,46.1,45.9,30.43,Rainy
+New York,2023-08-09,46.2,60.3,29.58,Snowy
+New York,2023-08-10,42.9,76.2,29.6,Rainy
+New York,2023-08-11,45.3,65.1,30.01,Cloudy
+New York,2023-08-12,37.9,57.7,29.81,Sunny
+New York,2023-08-13,39.2,81.9,30.0,Rainy
+New York,2023-08-14,40.6,72.7,29.55,Snowy
+New York,2023-08-15,41.5,46.6,30.4,Rainy
+New York,2023-08-16,36.5,83.2,29.88,Rainy
+New York,2023-08-17,35.0,87.7,30.15,Cloudy
+New York,2023-08-18,37.1,42.6,30.0,Sunny
+New York,2023-08-19,37.3,58.7,29.97,Cloudy
+New York,2023-08-20,27.8,52.8,30.0,Cloudy
+New York,2023-08-21,41.4,78.6,30.39,Snowy
+New York,2023-08-22,41.1,37.9,30.27,Snowy
+New York,2023-08-23,41.3,68.2,30.37,Cloudy
+New York,2023-08-24,31.9,36.8,30.43,Cloudy
+New York,2023-08-25,21.8,75.6,29.92,Rainy
+New York,2023-08-26,33.6,57.4,29.67,Snowy
+New York,2023-08-27,34.1,36.4,29.6,Rainy
+New York,2023-08-28,36.2,84.7,30.45,Cloudy
+New York,2023-08-29,42.6,88.1,29.76,Sunny
+New York,2023-08-30,23.1,81.6,29.61,Cloudy
+New York,2023-08-31,38.2,34.4,30.26,Cloudy
+New York,2023-09-01,24.4,62.6,29.84,Snowy
+New York,2023-09-02,36.0,39.9,30.25,Cloudy
+New York,2023-09-03,29.6,79.2,30.41,Rainy
+New York,2023-09-04,41.4,79.5,29.56,Rainy
+New York,2023-09-05,37.3,81.8,29.66,Snowy
+New York,2023-09-06,29.7,80.0,30.43,Rainy
+New York,2023-09-07,23.3,49.2,30.05,Snowy
+New York,2023-09-08,37.5,54.5,29.83,Rainy
+New York,2023-09-09,29.5,34.8,29.69,Cloudy
+New York,2023-09-10,22.1,83.7,29.63,Snowy
+New York,2023-09-11,22.4,68.5,29.52,Snowy
+New York,2023-09-12,32.8,55.9,30.26,Sunny
+New York,2023-09-13,28.7,66.4,30.07,Cloudy
+New York,2023-09-14,37.9,81.4,30.43,Sunny
+New York,2023-09-15,31.8,86.9,30.34,Sunny
+New York,2023-09-16,31.4,33.9,30.14,Cloudy
+New York,2023-09-17,33.7,88.7,29.66,Snowy
+New York,2023-09-18,32.2,78.1,30.13,Cloudy
+New York,2023-09-19,30.3,46.5,30.39,Snowy
+New York,2023-09-20,30.0,72.8,29.98,Sunny
+New York,2023-09-21,29.4,31.9,30.47,Rainy
+New York,2023-09-22,26.6,30.3,30.17,Snowy
+New York,2023-09-23,34.7,32.4,30.15,Sunny
+New York,2023-09-24,34.3,44.0,30.11,Snowy
+New York,2023-09-25,28.2,72.2,29.57,Rainy
+New York,2023-09-26,34.2,44.2,29.6,Rainy
+New York,2023-09-27,36.2,42.9,30.36,Sunny
+New York,2023-09-28,36.5,51.0,29.92,Rainy
+New York,2023-09-29,30.2,46.1,29.95,Cloudy
+New York,2023-09-30,35.5,63.4,30.15,Rainy
+New York,2023-10-01,33.5,59.8,30.04,Cloudy
+New York,2023-10-02,31.1,40.6,30.22,Rainy
+New York,2023-10-03,27.4,82.5,30.2,Sunny
+New York,2023-10-04,24.3,41.7,30.23,Sunny
+New York,2023-10-05,38.1,59.6,30.08,Sunny
+New York,2023-10-06,31.7,61.1,29.8,Cloudy
+New York,2023-10-07,26.9,66.3,29.62,Rainy
+New York,2023-10-08,28.0,45.1,30.18,Rainy
+New York,2023-10-09,25.0,55.9,29.67,Cloudy
+New York,2023-10-10,31.7,67.1,29.78,Cloudy
+New York,2023-10-11,36.2,88.6,29.79,Snowy
+New York,2023-10-12,28.5,41.0,30.09,Cloudy
+New York,2023-10-13,31.6,46.7,29.56,Rainy
+New York,2023-10-14,25.1,67.6,29.65,Cloudy
+New York,2023-10-15,36.1,54.3,29.86,Snowy
+New York,2023-10-16,25.0,50.0,29.57,Rainy
+New York,2023-10-17,49.0,55.5,29.95,Snowy
+New York,2023-10-18,21.5,71.3,30.36,Rainy
+New York,2023-10-19,32.1,40.9,29.59,Cloudy
+New York,2023-10-20,26.4,41.3,30.15,Snowy
+New York,2023-10-21,42.1,58.2,29.87,Sunny
+New York,2023-10-22,33.5,43.0,29.68,Cloudy
+New York,2023-10-23,35.2,42.6,29.52,Rainy
+New York,2023-10-24,37.9,30.3,29.54,Sunny
+New York,2023-10-25,32.7,68.4,29.58,Cloudy
+New York,2023-10-26,35.4,75.6,29.67,Sunny
+New York,2023-10-27,35.1,37.0,30.04,Sunny
+New York,2023-10-28,42.8,59.8,29.59,Rainy
+New York,2023-10-29,31.0,66.5,29.9,Sunny
+New York,2023-10-30,35.2,32.4,30.4,Sunny
+New York,2023-10-31,39.1,53.0,30.34,Rainy
+New York,2023-11-01,36.6,47.5,29.84,Rainy
+New York,2023-11-02,38.6,82.2,30.01,Cloudy
+New York,2023-11-03,38.5,38.4,30.04,Sunny
+New York,2023-11-04,37.0,56.8,29.84,Cloudy
+New York,2023-11-05,33.1,73.0,29.75,Cloudy
+New York,2023-11-06,36.4,55.3,30.46,Rainy
+New York,2023-11-07,37.8,40.2,29.77,Snowy
+New York,2023-11-08,39.9,34.7,29.57,Sunny
+New York,2023-11-09,37.1,88.3,29.78,Cloudy
+New York,2023-11-10,23.7,63.4,30.45,Snowy
+New York,2023-11-11,39.5,63.7,29.69,Snowy
+New York,2023-11-12,35.6,89.7,29.52,Rainy
+New York,2023-11-13,37.3,50.3,30.05,Sunny
+New York,2023-11-14,45.8,77.2,29.56,Rainy
+New York,2023-11-15,42.8,87.5,30.43,Sunny
+New York,2023-11-16,45.0,66.8,30.09,Snowy
+New York,2023-11-17,37.8,46.3,29.88,Sunny
+New York,2023-11-18,45.2,43.5,30.0,Snowy
+New York,2023-11-19,37.0,41.7,30.33,Sunny
+New York,2023-11-20,40.1,53.6,29.69,Cloudy
+New York,2023-11-21,38.4,74.9,30.46,Sunny
+New York,2023-11-22,48.1,76.8,29.75,Cloudy
+New York,2023-11-23,37.0,64.4,30.0,Snowy
+New York,2023-11-24,42.9,57.9,30.13,Sunny
+New York,2023-11-25,44.5,44.0,30.07,Snowy
+New York,2023-11-26,52.4,74.1,30.16,Snowy
+New York,2023-11-27,36.4,53.6,29.84,Snowy
+New York,2023-11-28,38.6,33.3,30.32,Cloudy
+New York,2023-11-29,51.2,47.9,29.91,Snowy
+New York,2023-11-30,48.7,64.8,30.21,Snowy
+New York,2023-12-01,51.6,52.3,30.22,Sunny
+New York,2023-12-02,49.0,37.2,30.03,Sunny
+New York,2023-12-03,39.1,79.5,30.11,Snowy
+New York,2023-12-04,43.3,41.5,30.34,Rainy
+New York,2023-12-05,47.1,52.5,29.73,Cloudy
+New York,2023-12-06,47.7,46.9,30.17,Cloudy
+New York,2023-12-07,44.1,84.9,30.34,Rainy
+New York,2023-12-08,53.1,41.3,30.12,Cloudy
+New York,2023-12-09,50.5,47.7,30.39,Snowy
+New York,2023-12-10,55.2,53.8,29.75,Snowy
+New York,2023-12-11,47.0,85.6,30.46,Sunny
+New York,2023-12-12,50.6,81.7,30.07,Sunny
+New York,2023-12-13,46.1,70.9,29.87,Sunny
+New York,2023-12-14,57.3,56.4,30.4,Rainy
+New York,2023-12-15,48.7,61.6,30.39,Sunny
+New York,2023-12-16,52.3,70.0,29.54,Cloudy
+New York,2023-12-17,57.1,88.5,29.55,Rainy
+New York,2023-12-18,53.5,45.8,29.66,Snowy
+New York,2023-12-19,49.0,59.0,30.19,Snowy
+New York,2023-12-20,55.4,34.3,29.65,Cloudy
+New York,2023-12-21,60.9,78.5,29.69,Sunny
+New York,2023-12-22,56.3,70.2,29.98,Rainy
+New York,2023-12-23,57.7,80.5,29.8,Cloudy
+New York,2023-12-24,59.5,51.5,29.78,Snowy
+New York,2023-12-25,60.2,54.9,30.26,Snowy
+New York,2023-12-26,59.5,63.7,30.38,Rainy
+New York,2023-12-27,57.5,86.1,30.02,Sunny
+New York,2023-12-28,59.6,34.4,29.55,Rainy
+New York,2023-12-29,59.9,63.3,30.24,Cloudy
+New York,2023-12-30,52.9,76.1,30.25,Sunny
+New York,2023-12-31,66.8,64.2,30.24,Rainy
+Los Angeles,2023-01-01,64.0,45.4,30.09,Rainy
+Los Angeles,2023-01-02,60.0,80.7,30.4,Sunny
+Los Angeles,2023-01-03,55.7,46.6,30.5,Sunny
+Los Angeles,2023-01-04,61.9,71.7,30.3,Rainy
+Los Angeles,2023-01-05,59.6,63.3,30.26,Rainy
+Los Angeles,2023-01-06,59.2,46.8,30.08,Rainy
+Los Angeles,2023-01-07,53.7,87.2,29.72,Cloudy
+Los Angeles,2023-01-08,65.5,33.3,29.91,Sunny
+Los Angeles,2023-01-09,59.3,30.3,30.25,Sunny
+Los Angeles,2023-01-10,73.1,57.8,30.31,Cloudy
+Los Angeles,2023-01-11,62.0,38.5,29.5,Cloudy
+Los Angeles,2023-01-12,69.8,63.8,30.02,Rainy
+Los Angeles,2023-01-13,64.4,69.9,29.58,Snowy
+Los Angeles,2023-01-14,62.5,78.4,30.49,Cloudy
+Los Angeles,2023-01-15,69.1,66.0,29.67,Snowy
+Los Angeles,2023-01-16,66.9,78.9,30.39,Cloudy
+Los Angeles,2023-01-17,62.9,44.8,30.25,Cloudy
+Los Angeles,2023-01-18,69.2,63.6,29.51,Snowy
+Los Angeles,2023-01-19,71.5,35.3,29.89,Snowy
+Los Angeles,2023-01-20,77.0,80.4,30.15,Rainy
+Los Angeles,2023-01-21,70.8,60.2,30.21,Sunny
+Los Angeles,2023-01-22,72.9,43.8,30.25,Sunny
+Los Angeles,2023-01-23,70.0,78.2,30.4,Sunny
+Los Angeles,2023-01-24,72.5,47.3,30.14,Rainy
+Los Angeles,2023-01-25,75.1,86.7,29.99,Rainy
+Los Angeles,2023-01-26,72.5,70.7,29.89,Sunny
+Los Angeles,2023-01-27,78.9,43.2,29.93,Rainy
+Los Angeles,2023-01-28,68.5,46.2,30.3,Sunny
+Los Angeles,2023-01-29,76.7,89.2,29.82,Snowy
+Los Angeles,2023-01-30,74.6,80.7,29.74,Rainy
+Los Angeles,2023-01-31,66.5,33.4,29.6,Sunny
+Los Angeles,2023-02-01,64.5,65.2,30.12,Rainy
+Los Angeles,2023-02-02,72.5,84.4,30.07,Snowy
+Los Angeles,2023-02-03,76.4,72.9,30.06,Rainy
+Los Angeles,2023-02-04,79.6,81.4,30.44,Sunny
+Los Angeles,2023-02-05,66.8,54.3,29.63,Rainy
+Los Angeles,2023-02-06,71.5,42.4,30.38,Rainy
+Los Angeles,2023-02-07,72.3,84.4,30.34,Cloudy
+Los Angeles,2023-02-08,81.3,82.1,30.07,Cloudy
+Los Angeles,2023-02-09,75.5,70.8,30.34,Snowy
+Los Angeles,2023-02-10,81.1,79.9,29.99,Rainy
+Los Angeles,2023-02-11,73.1,80.2,30.01,Sunny
+Los Angeles,2023-02-12,83.6,55.3,29.91,Sunny
+Los Angeles,2023-02-13,84.2,54.6,29.79,Cloudy
+Los Angeles,2023-02-14,82.3,30.6,30.13,Cloudy
+Los Angeles,2023-02-15,75.2,55.8,30.48,Sunny
+Los Angeles,2023-02-16,79.1,30.5,30.34,Rainy
+Los Angeles,2023-02-17,77.7,66.7,30.37,Sunny
+Los Angeles,2023-02-18,87.9,69.2,29.89,Snowy
+Los Angeles,2023-02-19,75.6,74.8,29.59,Snowy
+Los Angeles,2023-02-20,73.7,83.3,29.6,Cloudy
+Los Angeles,2023-02-21,79.5,86.7,29.98,Cloudy
+Los Angeles,2023-02-22,90.7,39.0,30.0,Rainy
+Los Angeles,2023-02-23,84.8,59.0,30.4,Cloudy
+Los Angeles,2023-02-24,81.9,59.4,29.76,Snowy
+Los Angeles,2023-02-25,75.8,76.9,30.26,Rainy
+Los Angeles,2023-02-26,80.2,32.6,30.49,Snowy
+Los Angeles,2023-02-27,89.4,35.3,30.31,Snowy
+Los Angeles,2023-02-28,82.2,54.8,30.04,Sunny
+Los Angeles,2023-03-01,90.3,76.1,29.95,Sunny
+Los Angeles,2023-03-02,93.7,36.8,29.91,Sunny
+Los Angeles,2023-03-03,88.2,32.3,29.82,Sunny
+Los Angeles,2023-03-04,86.0,45.6,30.35,Rainy
+Los Angeles,2023-03-05,82.7,35.7,30.23,Rainy
+Los Angeles,2023-03-06,88.0,65.8,29.84,Cloudy
+Los Angeles,2023-03-07,82.1,51.1,30.5,Rainy
+Los Angeles,2023-03-08,86.5,58.5,29.86,Cloudy
+Los Angeles,2023-03-09,81.6,38.7,30.4,Sunny
+Los Angeles,2023-03-10,90.6,67.5,30.23,Rainy
+Los Angeles,2023-03-11,81.7,40.3,29.58,Rainy
+Los Angeles,2023-03-12,94.5,33.4,30.39,Rainy
+Los Angeles,2023-03-13,90.6,45.7,30.48,Snowy
+Los Angeles,2023-03-14,95.7,65.9,29.53,Sunny
+Los Angeles,2023-03-15,93.0,86.1,29.73,Cloudy
+Los Angeles,2023-03-16,96.7,68.2,29.66,Rainy
+Los Angeles,2023-03-17,83.5,31.1,29.77,Cloudy
+Los Angeles,2023-03-18,80.1,42.0,29.71,Rainy
+Los Angeles,2023-03-19,79.8,59.0,29.82,Sunny
+Los Angeles,2023-03-20,86.6,57.2,30.29,Sunny
+Los Angeles,2023-03-21,91.4,84.8,30.11,Cloudy
+Los Angeles,2023-03-22,85.4,37.0,29.77,Snowy
+Los Angeles,2023-03-23,85.1,72.3,30.24,Cloudy
+Los Angeles,2023-03-24,84.5,71.2,29.6,Cloudy
+Los Angeles,2023-03-25,88.7,33.7,30.32,Cloudy
+Los Angeles,2023-03-26,85.4,71.6,29.54,Sunny
+Los Angeles,2023-03-27,94.4,53.9,30.02,Snowy
+Los Angeles,2023-03-28,92.2,76.3,29.97,Rainy
+Los Angeles,2023-03-29,94.6,42.4,29.75,Snowy
+Los Angeles,2023-03-30,85.2,78.1,29.91,Snowy
+Los Angeles,2023-03-31,85.9,30.6,30.28,Rainy
+Los Angeles,2023-04-01,93.4,78.4,29.85,Cloudy
+Los Angeles,2023-04-02,96.2,82.5,30.35,Rainy
+Los Angeles,2023-04-03,87.4,46.3,30.36,Cloudy
+Los Angeles,2023-04-04,86.7,57.4,30.44,Cloudy
+Los Angeles,2023-04-05,90.2,72.3,29.95,Cloudy
+Los Angeles,2023-04-06,86.8,58.3,30.21,Cloudy
+Los Angeles,2023-04-07,94.1,37.6,29.68,Snowy
+Los Angeles,2023-04-08,91.1,76.4,29.86,Snowy
+Los Angeles,2023-04-09,93.2,44.1,29.98,Snowy
+Los Angeles,2023-04-10,79.8,86.3,29.65,Cloudy
+Los Angeles,2023-04-11,83.2,58.9,29.83,Sunny
+Los Angeles,2023-04-12,86.3,37.8,30.22,Cloudy
+Los Angeles,2023-04-13,85.8,71.2,30.33,Cloudy
+Los Angeles,2023-04-14,97.8,62.0,30.43,Sunny
+Los Angeles,2023-04-15,91.3,48.8,29.64,Sunny
+Los Angeles,2023-04-16,91.6,56.9,30.03,Rainy
+Los Angeles,2023-04-17,90.5,73.8,29.55,Snowy
+Los Angeles,2023-04-18,85.7,43.8,30.06,Cloudy
+Los Angeles,2023-04-19,82.1,61.9,30.41,Snowy
+Los Angeles,2023-04-20,96.1,36.8,29.75,Cloudy
+Los Angeles,2023-04-21,85.7,89.3,29.89,Snowy
+Los Angeles,2023-04-22,87.9,41.8,30.13,Cloudy
+Los Angeles,2023-04-23,90.7,60.0,29.81,Rainy
+Los Angeles,2023-04-24,87.9,49.9,30.24,Sunny
+Los Angeles,2023-04-25,85.8,44.5,29.67,Sunny
+Los Angeles,2023-04-26,87.3,36.5,29.76,Sunny
+Los Angeles,2023-04-27,86.7,82.0,29.73,Sunny
+Los Angeles,2023-04-28,95.9,58.5,30.29,Cloudy
+Los Angeles,2023-04-29,96.5,33.8,29.9,Sunny
+Los Angeles,2023-04-30,82.5,82.5,29.92,Sunny
+Los Angeles,2023-05-01,94.6,68.7,29.87,Sunny
+Los Angeles,2023-05-02,83.0,48.3,30.28,Rainy
+Los Angeles,2023-05-03,87.6,45.1,30.03,Sunny
+Los Angeles,2023-05-04,86.1,36.3,30.21,Rainy
+Los Angeles,2023-05-05,85.0,72.7,29.88,Rainy
+Los Angeles,2023-05-06,88.8,58.8,29.99,Sunny
+Los Angeles,2023-05-07,93.9,58.9,29.88,Rainy
+Los Angeles,2023-05-08,92.2,41.9,29.74,Rainy
+Los Angeles,2023-05-09,90.3,68.3,29.79,Snowy
+Los Angeles,2023-05-10,82.1,33.4,30.37,Snowy
+Los Angeles,2023-05-11,82.1,39.2,29.57,Sunny
+Los Angeles,2023-05-12,76.0,50.1,29.83,Rainy
+Los Angeles,2023-05-13,83.5,82.4,29.89,Sunny
+Los Angeles,2023-05-14,81.0,51.0,30.26,Sunny
+Los Angeles,2023-05-15,80.1,47.4,30.08,Rainy
+Los Angeles,2023-05-16,88.9,56.1,30.45,Sunny
+Los Angeles,2023-05-17,79.1,48.3,29.66,Snowy
+Los Angeles,2023-05-18,82.6,52.0,29.61,Rainy
+Los Angeles,2023-05-19,83.3,48.8,29.8,Cloudy
+Los Angeles,2023-05-20,77.9,50.5,29.67,Sunny
+Los Angeles,2023-05-21,76.7,51.6,29.63,Cloudy
+Los Angeles,2023-05-22,81.1,49.5,29.61,Snowy
+Los Angeles,2023-05-23,69.5,62.9,30.2,Sunny
+Los Angeles,2023-05-24,85.1,57.2,30.18,Rainy
+Los Angeles,2023-05-25,82.8,43.0,30.09,Rainy
+Los Angeles,2023-05-26,84.5,78.2,30.22,Cloudy
+Los Angeles,2023-05-27,75.2,67.4,29.91,Cloudy
+Los Angeles,2023-05-28,75.3,42.6,30.0,Rainy
+Los Angeles,2023-05-29,72.7,75.5,29.52,Snowy
+Los Angeles,2023-05-30,80.8,66.3,29.98,Sunny
+Los Angeles,2023-05-31,67.6,71.8,29.84,Cloudy
+Los Angeles,2023-06-01,69.9,83.1,30.15,Cloudy
+Los Angeles,2023-06-02,75.0,60.6,29.92,Sunny
+Los Angeles,2023-06-03,68.7,43.5,29.53,Rainy
+Los Angeles,2023-06-04,76.1,49.8,30.09,Rainy
+Los Angeles,2023-06-05,77.2,56.8,29.94,Snowy
+Los Angeles,2023-06-06,74.7,34.3,29.69,Sunny
+Los Angeles,2023-06-07,74.5,87.4,30.2,Cloudy
+Los Angeles,2023-06-08,74.0,79.7,30.29,Sunny
+Los Angeles,2023-06-09,63.7,37.5,30.09,Cloudy
+Los Angeles,2023-06-10,71.8,40.7,29.84,Rainy
+Los Angeles,2023-06-11,73.3,89.2,30.14,Cloudy
+Los Angeles,2023-06-12,76.7,66.3,29.9,Rainy
+Los Angeles,2023-06-13,66.4,40.3,29.56,Snowy
+Los Angeles,2023-06-14,68.4,37.9,30.2,Snowy
+Los Angeles,2023-06-15,77.9,42.7,30.17,Snowy
+Los Angeles,2023-06-16,70.3,84.2,30.36,Rainy
+Los Angeles,2023-06-17,62.8,64.0,29.9,Snowy
+Los Angeles,2023-06-18,66.4,86.5,29.99,Cloudy
+Los Angeles,2023-06-19,73.5,39.8,29.62,Snowy
+Los Angeles,2023-06-20,75.9,58.1,30.47,Rainy
+Los Angeles,2023-06-21,68.5,80.0,29.99,Sunny
+Los Angeles,2023-06-22,65.0,41.8,29.82,Rainy
+Los Angeles,2023-06-23,64.5,61.7,30.5,Snowy
+Los Angeles,2023-06-24,69.3,38.0,29.73,Cloudy
+Los Angeles,2023-06-25,71.2,69.0,30.47,Sunny
+Los Angeles,2023-06-26,67.9,67.1,29.61,Sunny
+Los Angeles,2023-06-27,72.6,66.5,30.04,Cloudy
+Los Angeles,2023-06-28,61.1,53.3,29.67,Rainy
+Los Angeles,2023-06-29,55.6,50.4,29.82,Snowy
+Los Angeles,2023-06-30,61.3,69.8,30.35,Cloudy
+Los Angeles,2023-07-01,70.2,72.2,29.79,Snowy
+Los Angeles,2023-07-02,63.7,35.4,30.11,Cloudy
+Los Angeles,2023-07-03,50.4,46.5,30.31,Sunny
+Los Angeles,2023-07-04,64.3,59.9,30.43,Sunny
+Los Angeles,2023-07-05,56.7,79.9,30.35,Sunny
+Los Angeles,2023-07-06,63.2,44.5,30.01,Cloudy
+Los Angeles,2023-07-07,47.1,89.8,30.27,Rainy
+Los Angeles,2023-07-08,58.8,38.0,29.55,Snowy
+Los Angeles,2023-07-09,52.1,74.8,29.88,Snowy
+Los Angeles,2023-07-10,53.6,45.2,29.73,Rainy
+Los Angeles,2023-07-11,62.6,46.1,30.2,Sunny
+Los Angeles,2023-07-12,53.1,48.5,29.63,Rainy
+Los Angeles,2023-07-13,54.5,55.2,29.69,Snowy
+Los Angeles,2023-07-14,45.4,31.3,30.14,Rainy
+Los Angeles,2023-07-15,54.1,33.2,30.04,Cloudy
+Los Angeles,2023-07-16,52.2,40.8,30.19,Cloudy
+Los Angeles,2023-07-17,48.5,83.8,30.14,Rainy
+Los Angeles,2023-07-18,47.4,56.5,30.44,Snowy
+Los Angeles,2023-07-19,47.6,80.6,29.7,Sunny
+Los Angeles,2023-07-20,54.3,87.7,30.4,Sunny
+Los Angeles,2023-07-21,61.5,87.2,29.6,Rainy
+Los Angeles,2023-07-22,52.7,61.2,29.79,Cloudy
+Los Angeles,2023-07-23,50.9,70.6,30.02,Cloudy
+Los Angeles,2023-07-24,51.6,69.2,30.46,Cloudy
+Los Angeles,2023-07-25,43.7,55.2,29.82,Rainy
+Los Angeles,2023-07-26,48.1,75.9,29.59,Sunny
+Los Angeles,2023-07-27,45.7,50.0,29.93,Sunny
+Los Angeles,2023-07-28,50.8,40.2,29.82,Snowy
+Los Angeles,2023-07-29,57.4,85.6,30.17,Rainy
+Los Angeles,2023-07-30,51.6,74.0,29.5,Sunny
+Los Angeles,2023-07-31,47.3,85.4,30.38,Rainy
+Los Angeles,2023-08-01,45.0,72.8,30.19,Sunny
+Los Angeles,2023-08-02,43.6,59.0,29.76,Rainy
+Los Angeles,2023-08-03,39.0,80.8,29.95,Cloudy
+Los Angeles,2023-08-04,47.1,36.5,29.99,Snowy
+Los Angeles,2023-08-05,49.2,56.6,30.28,Rainy
+Los Angeles,2023-08-06,44.9,35.7,29.89,Rainy
+Los Angeles,2023-08-07,43.2,77.2,30.04,Rainy
+Los Angeles,2023-08-08,39.6,87.4,30.23,Sunny
+Los Angeles,2023-08-09,37.8,65.2,30.17,Cloudy
+Los Angeles,2023-08-10,42.9,50.1,30.32,Rainy
+Los Angeles,2023-08-11,46.4,52.4,29.89,Snowy
+Los Angeles,2023-08-12,37.9,40.0,30.49,Snowy
+Los Angeles,2023-08-13,39.4,34.0,30.09,Rainy
+Los Angeles,2023-08-14,44.0,55.2,30.47,Sunny
+Los Angeles,2023-08-15,33.5,82.9,29.99,Rainy
+Los Angeles,2023-08-16,39.1,48.9,29.7,Snowy
+Los Angeles,2023-08-17,34.7,53.6,29.89,Snowy
+Los Angeles,2023-08-18,35.3,90.0,29.77,Sunny
+Los Angeles,2023-08-19,33.7,40.4,29.84,Snowy
+Los Angeles,2023-08-20,35.1,48.8,29.61,Rainy
+Los Angeles,2023-08-21,35.2,57.8,29.97,Rainy
+Los Angeles,2023-08-22,40.4,62.3,29.81,Snowy
+Los Angeles,2023-08-23,39.9,30.6,29.9,Rainy
+Los Angeles,2023-08-24,30.2,30.1,30.0,Cloudy
+Los Angeles,2023-08-25,27.6,81.7,29.65,Snowy
+Los Angeles,2023-08-26,47.3,34.8,29.99,Cloudy
+Los Angeles,2023-08-27,34.4,82.6,29.92,Sunny
+Los Angeles,2023-08-28,43.8,84.2,29.89,Cloudy
+Los Angeles,2023-08-29,25.8,87.5,29.6,Rainy
+Los Angeles,2023-08-30,30.8,80.7,30.08,Rainy
+Los Angeles,2023-08-31,35.8,80.9,29.52,Cloudy
+Los Angeles,2023-09-01,31.2,45.6,29.93,Cloudy
+Los Angeles,2023-09-02,39.4,70.5,29.72,Sunny
+Los Angeles,2023-09-03,35.6,78.6,30.06,Rainy
+Los Angeles,2023-09-04,33.5,57.4,30.11,Rainy
+Los Angeles,2023-09-05,26.7,55.1,30.05,Sunny
+Los Angeles,2023-09-06,25.4,62.2,29.95,Sunny
+Los Angeles,2023-09-07,33.4,54.5,30.15,Snowy
+Los Angeles,2023-09-08,36.1,54.8,29.73,Cloudy
+Los Angeles,2023-09-09,31.5,58.7,30.4,Cloudy
+Los Angeles,2023-09-10,27.2,39.3,30.38,Rainy
+Los Angeles,2023-09-11,34.3,31.5,29.56,Cloudy
+Los Angeles,2023-09-12,26.6,38.2,30.0,Cloudy
+Los Angeles,2023-09-13,44.5,38.9,29.9,Rainy
+Los Angeles,2023-09-14,31.3,30.6,30.31,Rainy
+Los Angeles,2023-09-15,30.0,71.2,29.92,Cloudy
+Los Angeles,2023-09-16,35.8,35.2,29.72,Cloudy
+Los Angeles,2023-09-17,28.8,77.4,29.51,Snowy
+Los Angeles,2023-09-18,30.9,61.1,30.11,Rainy
+Los Angeles,2023-09-19,25.1,51.0,30.13,Cloudy
+Los Angeles,2023-09-20,18.9,44.2,29.76,Sunny
+Los Angeles,2023-09-21,25.1,68.3,30.01,Cloudy
+Los Angeles,2023-09-22,33.7,69.8,29.93,Cloudy
+Los Angeles,2023-09-23,36.1,73.6,30.44,Snowy
+Los Angeles,2023-09-24,35.5,73.5,29.9,Snowy
+Los Angeles,2023-09-25,33.3,55.5,29.65,Cloudy
+Los Angeles,2023-09-26,24.4,45.1,29.95,Snowy
+Los Angeles,2023-09-27,29.3,56.9,29.62,Sunny
+Los Angeles,2023-09-28,21.0,65.4,30.1,Rainy
+Los Angeles,2023-09-29,25.3,74.0,29.53,Sunny
+Los Angeles,2023-09-30,26.2,39.0,29.6,Rainy
+Los Angeles,2023-10-01,30.9,74.9,29.7,Sunny
+Los Angeles,2023-10-02,31.9,40.4,30.46,Cloudy
+Los Angeles,2023-10-03,27.4,74.4,29.92,Rainy
+Los Angeles,2023-10-04,23.6,31.2,30.17,Snowy
+Los Angeles,2023-10-05,25.8,65.4,29.57,Sunny
+Los Angeles,2023-10-06,25.9,37.6,29.9,Sunny
+Los Angeles,2023-10-07,27.4,62.1,30.2,Snowy
+Los Angeles,2023-10-08,30.1,88.4,29.73,Snowy
+Los Angeles,2023-10-09,26.9,78.7,29.82,Sunny
+Los Angeles,2023-10-10,36.4,69.5,30.07,Snowy
+Los Angeles,2023-10-11,30.0,50.5,30.46,Snowy
+Los Angeles,2023-10-12,30.1,38.4,30.22,Snowy
+Los Angeles,2023-10-13,12.1,39.5,30.26,Snowy
+Los Angeles,2023-10-14,31.0,45.5,29.98,Cloudy
+Los Angeles,2023-10-15,38.7,46.9,29.72,Sunny
+Los Angeles,2023-10-16,32.5,32.4,29.62,Sunny
+Los Angeles,2023-10-17,27.2,32.2,30.12,Sunny
+Los Angeles,2023-10-18,32.2,72.6,30.09,Snowy
+Los Angeles,2023-10-19,29.2,44.2,30.13,Cloudy
+Los Angeles,2023-10-20,21.9,37.6,29.57,Cloudy
+Los Angeles,2023-10-21,30.4,53.1,30.03,Snowy
+Los Angeles,2023-10-22,26.5,45.7,29.84,Snowy
+Los Angeles,2023-10-23,35.3,48.5,29.79,Snowy
+Los Angeles,2023-10-24,37.8,85.2,29.55,Snowy
+Los Angeles,2023-10-25,35.0,30.5,29.58,Snowy
+Los Angeles,2023-10-26,23.6,73.9,30.43,Cloudy
+Los Angeles,2023-10-27,33.0,59.8,29.64,Snowy
+Los Angeles,2023-10-28,29.4,58.9,29.62,Rainy
+Los Angeles,2023-10-29,42.5,36.3,29.95,Rainy
+Los Angeles,2023-10-30,26.7,79.0,30.36,Cloudy
+Los Angeles,2023-10-31,36.5,80.0,29.7,Snowy
+Los Angeles,2023-11-01,38.0,68.9,29.85,Rainy
+Los Angeles,2023-11-02,29.5,35.9,30.42,Cloudy
+Los Angeles,2023-11-03,38.2,36.8,29.59,Cloudy
+Los Angeles,2023-11-04,24.4,30.4,29.56,Sunny
+Los Angeles,2023-11-05,38.4,48.7,29.6,Snowy
+Los Angeles,2023-11-06,29.5,80.9,29.8,Snowy
+Los Angeles,2023-11-07,33.8,38.4,29.82,Cloudy
+Los Angeles,2023-11-08,36.2,49.5,29.66,Cloudy
+Los Angeles,2023-11-09,39.7,76.8,30.26,Rainy
+Los Angeles,2023-11-10,42.0,71.2,29.61,Cloudy
+Los Angeles,2023-11-11,37.4,89.2,30.23,Snowy
+Los Angeles,2023-11-12,44.7,36.6,30.36,Rainy
+Los Angeles,2023-11-13,40.9,66.9,30.33,Cloudy
+Los Angeles,2023-11-14,43.5,51.4,29.61,Sunny
+Los Angeles,2023-11-15,39.8,43.6,29.67,Rainy
+Los Angeles,2023-11-16,36.4,77.8,29.56,Snowy
+Los Angeles,2023-11-17,37.1,53.4,29.81,Rainy
+Los Angeles,2023-11-18,44.3,46.0,29.72,Sunny
+Los Angeles,2023-11-19,36.8,85.8,29.75,Snowy
+Los Angeles,2023-11-20,36.6,40.2,30.26,Cloudy
+Los Angeles,2023-11-21,32.8,50.4,29.82,Cloudy
+Los Angeles,2023-11-22,33.8,50.5,30.28,Rainy
+Los Angeles,2023-11-23,42.9,61.2,29.95,Cloudy
+Los Angeles,2023-11-24,42.5,41.2,29.93,Rainy
+Los Angeles,2023-11-25,49.1,37.0,30.1,Sunny
+Los Angeles,2023-11-26,35.2,40.1,30.19,Snowy
+Los Angeles,2023-11-27,39.6,73.2,30.14,Snowy
+Los Angeles,2023-11-28,47.8,76.4,29.96,Rainy
+Los Angeles,2023-11-29,39.9,30.7,30.2,Cloudy
+Los Angeles,2023-11-30,46.8,60.8,29.96,Sunny
+Los Angeles,2023-12-01,49.2,42.2,29.84,Rainy
+Los Angeles,2023-12-02,41.3,87.1,30.29,Snowy
+Los Angeles,2023-12-03,46.9,36.5,30.43,Sunny
+Los Angeles,2023-12-04,50.3,63.6,30.03,Sunny
+Los Angeles,2023-12-05,48.8,64.7,30.0,Rainy
+Los Angeles,2023-12-06,57.2,84.9,29.59,Cloudy
+Los Angeles,2023-12-07,44.8,36.2,30.31,Cloudy
+Los Angeles,2023-12-08,53.0,77.7,29.61,Snowy
+Los Angeles,2023-12-09,42.7,48.3,30.02,Sunny
+Los Angeles,2023-12-10,55.9,52.1,29.63,Rainy
+Los Angeles,2023-12-11,49.6,50.9,30.21,Cloudy
+Los Angeles,2023-12-12,48.0,61.2,29.89,Cloudy
+Los Angeles,2023-12-13,50.6,80.8,30.24,Cloudy
+Los Angeles,2023-12-14,41.7,55.0,30.16,Cloudy
+Los Angeles,2023-12-15,42.8,53.8,30.07,Snowy
+Los Angeles,2023-12-16,48.5,80.4,30.5,Rainy
+Los Angeles,2023-12-17,50.7,87.0,30.36,Cloudy
+Los Angeles,2023-12-18,47.8,64.9,30.44,Snowy
+Los Angeles,2023-12-19,58.6,76.5,29.89,Snowy
+Los Angeles,2023-12-20,56.0,46.6,30.43,Rainy
+Los Angeles,2023-12-21,52.2,37.9,30.39,Rainy
+Los Angeles,2023-12-22,50.0,69.6,30.34,Cloudy
+Los Angeles,2023-12-23,55.6,77.1,30.26,Rainy
+Los Angeles,2023-12-24,56.8,74.8,30.29,Rainy
+Los Angeles,2023-12-25,58.2,75.3,29.83,Sunny
+Los Angeles,2023-12-26,62.0,78.1,29.54,Snowy
+Los Angeles,2023-12-27,59.2,56.0,29.57,Cloudy
+Los Angeles,2023-12-28,62.8,37.2,29.95,Sunny
+Los Angeles,2023-12-29,59.8,35.2,30.44,Snowy
+Los Angeles,2023-12-30,59.6,39.5,29.62,Rainy
+Los Angeles,2023-12-31,67.2,38.1,29.79,Sunny
+Chicago,2023-01-01,58.5,59.6,29.77,Cloudy
+Chicago,2023-01-02,67.3,61.7,30.04,Rainy
+Chicago,2023-01-03,61.6,63.8,29.9,Rainy
+Chicago,2023-01-04,59.3,86.3,30.36,Cloudy
+Chicago,2023-01-05,55.3,82.8,30.46,Cloudy
+Chicago,2023-01-06,52.9,87.7,29.92,Rainy
+Chicago,2023-01-07,65.0,45.0,30.04,Snowy
+Chicago,2023-01-08,64.4,61.2,29.77,Cloudy
+Chicago,2023-01-09,70.8,58.5,30.29,Rainy
+Chicago,2023-01-10,66.6,67.0,29.9,Cloudy
+Chicago,2023-01-11,63.1,40.2,30.13,Snowy
+Chicago,2023-01-12,66.1,51.3,29.91,Sunny
+Chicago,2023-01-13,68.5,41.1,30.13,Snowy
+Chicago,2023-01-14,69.4,59.8,29.67,Rainy
+Chicago,2023-01-15,61.5,49.1,29.74,Cloudy
+Chicago,2023-01-16,70.7,84.5,30.14,Rainy
+Chicago,2023-01-17,62.5,59.8,29.78,Rainy
+Chicago,2023-01-18,65.3,40.3,29.77,Sunny
+Chicago,2023-01-19,67.0,31.8,30.27,Sunny
+Chicago,2023-01-20,61.4,46.4,29.7,Cloudy
+Chicago,2023-01-21,73.5,30.5,29.55,Sunny
+Chicago,2023-01-22,71.3,54.5,29.61,Sunny
+Chicago,2023-01-23,68.8,89.5,29.73,Sunny
+Chicago,2023-01-24,81.5,87.2,30.31,Rainy
+Chicago,2023-01-25,84.7,80.6,29.98,Cloudy
+Chicago,2023-01-26,65.5,35.6,30.24,Snowy
+Chicago,2023-01-27,73.1,54.8,30.38,Snowy
+Chicago,2023-01-28,67.4,66.0,29.98,Rainy
+Chicago,2023-01-29,68.2,72.0,30.43,Rainy
+Chicago,2023-01-30,72.7,65.0,30.41,Sunny
+Chicago,2023-01-31,81.1,49.1,29.95,Cloudy
+Chicago,2023-02-01,83.8,80.8,29.63,Cloudy
+Chicago,2023-02-02,64.0,47.5,30.32,Rainy
+Chicago,2023-02-03,79.7,85.6,29.9,Cloudy
+Chicago,2023-02-04,68.4,37.2,29.6,Snowy
+Chicago,2023-02-05,75.3,85.7,29.95,Cloudy
+Chicago,2023-02-06,75.1,67.5,29.84,Rainy
+Chicago,2023-02-07,79.8,71.4,29.83,Sunny
+Chicago,2023-02-08,78.5,38.3,29.74,Rainy
+Chicago,2023-02-09,84.8,59.4,29.95,Sunny
+Chicago,2023-02-10,85.4,54.1,30.22,Rainy
+Chicago,2023-02-11,80.1,48.2,30.27,Rainy
+Chicago,2023-02-12,76.3,89.4,29.76,Snowy
+Chicago,2023-02-13,86.6,57.2,30.01,Rainy
+Chicago,2023-02-14,75.6,75.9,30.29,Snowy
+Chicago,2023-02-15,78.3,46.8,29.65,Cloudy
+Chicago,2023-02-16,84.8,75.5,29.72,Cloudy
+Chicago,2023-02-17,76.3,73.2,29.84,Snowy
+Chicago,2023-02-18,75.4,89.8,30.39,Snowy
+Chicago,2023-02-19,86.8,86.6,30.22,Sunny
+Chicago,2023-02-20,88.9,58.0,30.13,Cloudy
+Chicago,2023-02-21,91.1,60.7,30.05,Cloudy
+Chicago,2023-02-22,75.6,70.1,30.13,Cloudy
+Chicago,2023-02-23,94.1,78.1,30.44,Snowy
+Chicago,2023-02-24,80.0,33.8,29.68,Snowy
+Chicago,2023-02-25,78.2,45.1,30.23,Sunny
+Chicago,2023-02-26,77.1,50.9,30.21,Sunny
+Chicago,2023-02-27,81.6,52.1,30.06,Sunny
+Chicago,2023-02-28,92.7,86.9,29.86,Snowy
+Chicago,2023-03-01,85.3,42.6,30.38,Cloudy
+Chicago,2023-03-02,85.7,34.5,30.48,Rainy
+Chicago,2023-03-03,87.4,42.5,29.84,Snowy
+Chicago,2023-03-04,80.5,84.4,30.03,Snowy
+Chicago,2023-03-05,79.0,53.2,29.71,Snowy
+Chicago,2023-03-06,88.4,71.7,29.84,Snowy
+Chicago,2023-03-07,81.0,62.5,30.34,Snowy
+Chicago,2023-03-08,80.2,66.3,30.38,Sunny
+Chicago,2023-03-09,84.1,69.1,30.36,Snowy
+Chicago,2023-03-10,80.2,79.3,29.8,Sunny
+Chicago,2023-03-11,89.5,77.3,30.34,Snowy
+Chicago,2023-03-12,90.9,41.3,29.61,Sunny
+Chicago,2023-03-13,84.3,55.2,29.69,Snowy
+Chicago,2023-03-14,85.4,66.9,29.94,Rainy
+Chicago,2023-03-15,92.2,41.5,29.55,Sunny
+Chicago,2023-03-16,88.5,63.8,30.15,Rainy
+Chicago,2023-03-17,96.5,82.6,29.8,Sunny
+Chicago,2023-03-18,93.0,32.8,30.38,Snowy
+Chicago,2023-03-19,96.6,46.0,29.96,Rainy
+Chicago,2023-03-20,89.9,73.2,29.59,Snowy
+Chicago,2023-03-21,85.7,52.7,29.51,Rainy
+Chicago,2023-03-22,84.1,61.6,29.9,Rainy
+Chicago,2023-03-23,90.1,47.6,30.06,Sunny
+Chicago,2023-03-24,88.2,33.3,30.1,Snowy
+Chicago,2023-03-25,86.9,39.4,30.17,Sunny
+Chicago,2023-03-26,89.0,83.8,30.14,Cloudy
+Chicago,2023-03-27,88.1,45.9,30.03,Sunny
+Chicago,2023-03-28,82.3,89.1,29.53,Snowy
+Chicago,2023-03-29,97.0,47.1,30.34,Cloudy
+Chicago,2023-03-30,89.5,85.5,29.85,Sunny
+Chicago,2023-03-31,89.1,47.4,29.8,Sunny
+Chicago,2023-04-01,98.7,39.9,29.65,Snowy
+Chicago,2023-04-02,93.4,40.3,29.6,Cloudy
+Chicago,2023-04-03,90.2,63.8,29.63,Cloudy
+Chicago,2023-04-04,89.1,49.1,29.95,Snowy
+Chicago,2023-04-05,87.5,51.3,29.57,Cloudy
+Chicago,2023-04-06,81.4,52.8,30.37,Sunny
+Chicago,2023-04-07,86.7,56.8,29.96,Sunny
+Chicago,2023-04-08,99.7,87.3,30.43,Snowy
+Chicago,2023-04-09,93.8,49.0,30.23,Snowy
+Chicago,2023-04-10,87.2,83.0,29.71,Cloudy
+Chicago,2023-04-11,98.3,53.8,29.58,Cloudy
+Chicago,2023-04-12,95.2,36.4,29.61,Snowy
+Chicago,2023-04-13,87.3,34.9,29.5,Snowy
+Chicago,2023-04-14,90.8,36.0,29.86,Rainy
+Chicago,2023-04-15,94.5,40.2,30.33,Cloudy
+Chicago,2023-04-16,84.1,57.9,30.0,Cloudy
+Chicago,2023-04-17,88.7,66.9,29.6,Cloudy
+Chicago,2023-04-18,85.0,63.4,30.43,Sunny
+Chicago,2023-04-19,85.5,87.5,29.64,Cloudy
+Chicago,2023-04-20,89.3,71.9,30.12,Rainy
+Chicago,2023-04-21,92.0,46.6,29.72,Snowy
+Chicago,2023-04-22,81.9,49.3,30.11,Rainy
+Chicago,2023-04-23,85.5,51.8,29.96,Snowy
+Chicago,2023-04-24,92.0,35.7,30.49,Sunny
+Chicago,2023-04-25,85.5,43.5,29.52,Rainy
+Chicago,2023-04-26,84.7,68.1,30.27,Rainy
+Chicago,2023-04-27,83.9,77.2,29.66,Snowy
+Chicago,2023-04-28,82.4,36.4,29.65,Cloudy
+Chicago,2023-04-29,93.2,35.9,30.2,Rainy
+Chicago,2023-04-30,85.7,74.0,30.14,Cloudy
+Chicago,2023-05-01,90.0,46.5,30.01,Cloudy
+Chicago,2023-05-02,79.7,65.2,30.33,Snowy
+Chicago,2023-05-03,78.3,69.7,30.21,Cloudy
+Chicago,2023-05-04,88.1,67.2,30.39,Snowy
+Chicago,2023-05-05,75.5,82.3,29.66,Sunny
+Chicago,2023-05-06,84.5,33.1,29.88,Cloudy
+Chicago,2023-05-07,80.9,45.1,29.66,Cloudy
+Chicago,2023-05-08,86.9,46.5,30.05,Sunny
+Chicago,2023-05-09,80.6,60.6,29.96,Snowy
+Chicago,2023-05-10,83.2,77.5,30.01,Snowy
+Chicago,2023-05-11,87.3,72.5,29.65,Cloudy
+Chicago,2023-05-12,78.8,59.9,29.84,Snowy
+Chicago,2023-05-13,90.3,43.7,29.99,Sunny
+Chicago,2023-05-14,83.1,76.4,30.31,Rainy
+Chicago,2023-05-15,79.2,81.6,29.97,Sunny
+Chicago,2023-05-16,79.6,84.2,29.6,Sunny
+Chicago,2023-05-17,83.8,47.4,29.67,Snowy
+Chicago,2023-05-18,85.1,41.4,29.94,Rainy
+Chicago,2023-05-19,85.0,53.2,30.06,Rainy
+Chicago,2023-05-20,80.1,65.7,30.37,Rainy
+Chicago,2023-05-21,82.4,47.7,30.41,Cloudy
+Chicago,2023-05-22,84.0,41.9,30.44,Sunny
+Chicago,2023-05-23,85.6,77.5,29.69,Snowy
+Chicago,2023-05-24,81.0,49.3,29.63,Cloudy
+Chicago,2023-05-25,77.0,80.0,30.49,Sunny
+Chicago,2023-05-26,72.2,42.0,29.79,Snowy
+Chicago,2023-05-27,77.5,71.9,30.42,Rainy
+Chicago,2023-05-28,80.3,86.7,29.7,Cloudy
+Chicago,2023-05-29,76.1,54.0,30.37,Rainy
+Chicago,2023-05-30,77.7,32.4,29.81,Cloudy
+Chicago,2023-05-31,75.3,64.7,29.89,Rainy
+Chicago,2023-06-01,72.4,57.3,30.2,Sunny
+Chicago,2023-06-02,70.3,55.5,29.64,Snowy
+Chicago,2023-06-03,83.9,34.1,30.01,Cloudy
+Chicago,2023-06-04,80.1,34.5,30.41,Snowy
+Chicago,2023-06-05,69.0,63.2,29.95,Cloudy
+Chicago,2023-06-06,65.6,30.6,29.77,Rainy
+Chicago,2023-06-07,70.0,56.3,29.89,Cloudy
+Chicago,2023-06-08,68.7,84.0,30.02,Rainy
+Chicago,2023-06-09,75.1,61.9,30.31,Sunny
+Chicago,2023-06-10,71.5,70.3,30.41,Cloudy
+Chicago,2023-06-11,63.7,40.4,29.5,Sunny
+Chicago,2023-06-12,70.4,38.5,29.72,Sunny
+Chicago,2023-06-13,75.5,45.5,29.73,Sunny
+Chicago,2023-06-14,67.5,74.0,29.57,Sunny
+Chicago,2023-06-15,68.8,73.1,30.27,Sunny
+Chicago,2023-06-16,76.0,45.6,29.66,Snowy
+Chicago,2023-06-17,68.4,79.3,29.7,Cloudy
+Chicago,2023-06-18,66.8,46.1,30.34,Snowy
+Chicago,2023-06-19,61.5,77.0,30.25,Cloudy
+Chicago,2023-06-20,66.8,67.3,29.9,Rainy
+Chicago,2023-06-21,74.8,30.6,29.53,Snowy
+Chicago,2023-06-22,71.8,69.6,29.85,Cloudy
+Chicago,2023-06-23,65.2,48.4,29.54,Rainy
+Chicago,2023-06-24,66.5,50.5,30.28,Rainy
+Chicago,2023-06-25,68.9,43.3,29.77,Cloudy
+Chicago,2023-06-26,66.1,30.1,30.23,Rainy
+Chicago,2023-06-27,63.7,86.8,30.38,Rainy
+Chicago,2023-06-28,58.2,58.6,30.32,Cloudy
+Chicago,2023-06-29,66.3,40.5,29.92,Rainy
+Chicago,2023-06-30,67.7,45.4,29.53,Snowy
+Chicago,2023-07-01,75.6,66.9,29.87,Snowy
+Chicago,2023-07-02,59.9,33.1,29.6,Sunny
+Chicago,2023-07-03,57.0,35.4,29.71,Snowy
+Chicago,2023-07-04,61.6,32.3,29.99,Snowy
+Chicago,2023-07-05,66.0,64.4,30.43,Sunny
+Chicago,2023-07-06,54.0,44.2,30.28,Snowy
+Chicago,2023-07-07,55.7,37.9,30.18,Snowy
+Chicago,2023-07-08,48.4,45.4,30.09,Cloudy
+Chicago,2023-07-09,53.5,62.0,29.61,Cloudy
+Chicago,2023-07-10,59.5,75.9,29.52,Cloudy
+Chicago,2023-07-11,53.8,51.9,29.85,Snowy
+Chicago,2023-07-12,58.6,58.5,30.49,Sunny
+Chicago,2023-07-13,56.7,77.5,29.98,Snowy
+Chicago,2023-07-14,45.8,30.7,29.75,Snowy
+Chicago,2023-07-15,47.3,39.8,30.5,Sunny
+Chicago,2023-07-16,50.2,37.1,30.5,Rainy
+Chicago,2023-07-17,58.5,89.5,29.79,Sunny
+Chicago,2023-07-18,57.3,78.9,29.58,Rainy
+Chicago,2023-07-19,54.9,65.5,30.0,Rainy
+Chicago,2023-07-20,51.4,74.2,30.34,Rainy
+Chicago,2023-07-21,55.2,58.9,29.58,Snowy
+Chicago,2023-07-22,45.4,54.0,29.87,Snowy
+Chicago,2023-07-23,47.4,86.0,30.31,Cloudy
+Chicago,2023-07-24,53.3,50.1,29.53,Sunny
+Chicago,2023-07-25,55.3,40.5,29.79,Cloudy
+Chicago,2023-07-26,51.3,40.3,29.76,Rainy
+Chicago,2023-07-27,56.0,33.5,29.87,Sunny
+Chicago,2023-07-28,49.8,79.3,30.06,Cloudy
+Chicago,2023-07-29,54.8,86.2,29.55,Snowy
+Chicago,2023-07-30,39.3,40.8,30.05,Snowy
+Chicago,2023-07-31,41.7,73.0,29.58,Cloudy
+Chicago,2023-08-01,48.6,77.6,30.47,Sunny
+Chicago,2023-08-02,48.8,70.8,30.33,Sunny
+Chicago,2023-08-03,41.8,58.4,29.91,Cloudy
+Chicago,2023-08-04,51.8,85.0,29.89,Cloudy
+Chicago,2023-08-05,44.8,64.8,29.87,Rainy
+Chicago,2023-08-06,46.9,84.5,29.6,Rainy
+Chicago,2023-08-07,36.9,45.8,30.45,Snowy
+Chicago,2023-08-08,41.9,31.8,29.93,Snowy
+Chicago,2023-08-09,40.0,61.3,30.14,Rainy
+Chicago,2023-08-10,41.7,35.5,29.95,Rainy
+Chicago,2023-08-11,46.4,48.7,30.07,Rainy
+Chicago,2023-08-12,44.3,43.6,29.5,Rainy
+Chicago,2023-08-13,46.8,67.2,29.58,Snowy
+Chicago,2023-08-14,37.4,75.0,30.44,Sunny
+Chicago,2023-08-15,34.3,84.8,29.97,Sunny
+Chicago,2023-08-16,38.1,60.7,30.17,Rainy
+Chicago,2023-08-17,44.6,56.6,29.82,Cloudy
+Chicago,2023-08-18,35.6,75.4,30.17,Snowy
+Chicago,2023-08-19,40.8,30.0,29.86,Sunny
+Chicago,2023-08-20,39.8,72.9,29.61,Sunny
+Chicago,2023-08-21,32.2,64.1,30.33,Rainy
+Chicago,2023-08-22,30.8,33.6,29.94,Snowy
+Chicago,2023-08-23,25.0,53.6,30.12,Rainy
+Chicago,2023-08-24,33.2,51.2,30.1,Snowy
+Chicago,2023-08-25,39.1,66.5,29.72,Rainy
+Chicago,2023-08-26,35.4,47.6,29.53,Cloudy
+Chicago,2023-08-27,36.3,86.9,29.99,Cloudy
+Chicago,2023-08-28,31.4,37.5,30.36,Snowy
+Chicago,2023-08-29,32.2,45.0,30.19,Snowy
+Chicago,2023-08-30,43.3,50.0,29.68,Cloudy
+Chicago,2023-08-31,36.4,52.1,29.55,Sunny
+Chicago,2023-09-01,33.3,83.2,30.23,Snowy
+Chicago,2023-09-02,31.3,67.5,29.92,Snowy
+Chicago,2023-09-03,33.5,44.4,29.6,Cloudy
+Chicago,2023-09-04,40.6,86.2,30.09,Rainy
+Chicago,2023-09-05,36.1,74.2,29.65,Sunny
+Chicago,2023-09-06,35.8,42.1,29.77,Sunny
+Chicago,2023-09-07,24.5,89.1,30.38,Sunny
+Chicago,2023-09-08,29.2,76.2,30.37,Cloudy
+Chicago,2023-09-09,27.2,85.3,29.64,Rainy
+Chicago,2023-09-10,36.6,58.2,29.62,Sunny
+Chicago,2023-09-11,24.5,30.1,30.26,Snowy
+Chicago,2023-09-12,30.1,60.7,29.64,Cloudy
+Chicago,2023-09-13,40.9,56.9,30.28,Cloudy
+Chicago,2023-09-14,31.8,73.7,29.62,Cloudy
+Chicago,2023-09-15,35.5,43.8,29.65,Sunny
+Chicago,2023-09-16,33.6,74.6,30.4,Rainy
+Chicago,2023-09-17,29.3,86.2,30.31,Cloudy
+Chicago,2023-09-18,29.6,37.7,30.02,Cloudy
+Chicago,2023-09-19,27.5,56.5,29.56,Sunny
+Chicago,2023-09-20,37.1,76.0,29.92,Cloudy
+Chicago,2023-09-21,26.0,73.0,29.92,Rainy
+Chicago,2023-09-22,31.9,48.7,29.85,Snowy
+Chicago,2023-09-23,26.4,80.8,30.33,Sunny
+Chicago,2023-09-24,22.4,48.2,29.77,Cloudy
+Chicago,2023-09-25,27.4,88.3,30.12,Sunny
+Chicago,2023-09-26,23.4,59.0,29.84,Rainy
+Chicago,2023-09-27,28.0,60.7,29.82,Sunny
+Chicago,2023-09-28,41.8,47.1,29.52,Sunny
+Chicago,2023-09-29,22.2,35.7,29.67,Cloudy
+Chicago,2023-09-30,31.6,87.5,29.51,Cloudy
+Chicago,2023-10-01,30.9,45.0,30.39,Snowy
+Chicago,2023-10-02,31.0,30.9,30.15,Snowy
+Chicago,2023-10-03,28.9,89.6,29.73,Sunny
+Chicago,2023-10-04,24.9,59.2,30.13,Snowy
+Chicago,2023-10-05,29.2,68.9,30.07,Snowy
+Chicago,2023-10-06,24.6,84.9,30.37,Sunny
+Chicago,2023-10-07,25.1,67.5,30.28,Snowy
+Chicago,2023-10-08,29.8,40.6,29.98,Snowy
+Chicago,2023-10-09,36.3,33.2,30.3,Sunny
+Chicago,2023-10-10,26.6,56.1,29.63,Rainy
+Chicago,2023-10-11,23.6,63.2,30.12,Snowy
+Chicago,2023-10-12,33.2,32.0,30.17,Rainy
+Chicago,2023-10-13,17.8,50.7,30.0,Cloudy
+Chicago,2023-10-14,28.7,43.6,29.98,Cloudy
+Chicago,2023-10-15,30.6,41.1,29.56,Cloudy
+Chicago,2023-10-16,29.3,56.4,29.95,Snowy
+Chicago,2023-10-17,40.7,58.2,29.89,Rainy
+Chicago,2023-10-18,29.6,38.9,29.6,Snowy
+Chicago,2023-10-19,35.0,40.2,29.64,Cloudy
+Chicago,2023-10-20,31.6,70.8,29.59,Sunny
+Chicago,2023-10-21,29.6,85.8,30.22,Sunny
+Chicago,2023-10-22,25.9,73.0,30.1,Snowy
+Chicago,2023-10-23,35.8,48.3,29.82,Sunny
+Chicago,2023-10-24,38.8,58.7,30.01,Sunny
+Chicago,2023-10-25,36.6,49.9,29.62,Cloudy
+Chicago,2023-10-26,32.7,40.0,30.21,Rainy
+Chicago,2023-10-27,42.4,70.7,30.23,Snowy
+Chicago,2023-10-28,30.7,70.3,30.11,Sunny
+Chicago,2023-10-29,44.5,45.7,30.01,Sunny
+Chicago,2023-10-30,42.3,57.1,30.47,Snowy
+Chicago,2023-10-31,39.1,76.4,29.83,Sunny
+Chicago,2023-11-01,34.2,50.2,30.23,Sunny
+Chicago,2023-11-02,25.3,88.0,29.66,Sunny
+Chicago,2023-11-03,33.5,85.6,30.29,Cloudy
+Chicago,2023-11-04,37.2,86.1,29.51,Snowy
+Chicago,2023-11-05,31.6,48.3,30.01,Sunny
+Chicago,2023-11-06,31.0,86.5,30.32,Rainy
+Chicago,2023-11-07,34.9,78.8,30.11,Rainy
+Chicago,2023-11-08,33.5,88.8,29.59,Rainy
+Chicago,2023-11-09,36.7,32.9,30.1,Cloudy
+Chicago,2023-11-10,34.0,55.8,29.91,Rainy
+Chicago,2023-11-11,45.1,70.0,30.49,Snowy
+Chicago,2023-11-12,35.8,55.7,29.6,Cloudy
+Chicago,2023-11-13,35.3,69.5,30.38,Rainy
+Chicago,2023-11-14,38.8,70.6,29.98,Rainy
+Chicago,2023-11-15,39.4,39.3,29.75,Rainy
+Chicago,2023-11-16,46.0,84.7,30.32,Rainy
+Chicago,2023-11-17,35.7,72.8,29.5,Rainy
+Chicago,2023-11-18,38.3,44.1,30.41,Cloudy
+Chicago,2023-11-19,31.3,84.8,29.69,Sunny
+Chicago,2023-11-20,36.7,72.6,30.03,Cloudy
+Chicago,2023-11-21,36.5,77.4,29.92,Sunny
+Chicago,2023-11-22,41.5,45.2,30.46,Sunny
+Chicago,2023-11-23,43.7,47.4,30.11,Sunny
+Chicago,2023-11-24,32.6,35.3,30.19,Rainy
+Chicago,2023-11-25,38.5,74.4,30.47,Sunny
+Chicago,2023-11-26,34.7,72.3,30.41,Cloudy
+Chicago,2023-11-27,41.4,30.5,29.99,Snowy
+Chicago,2023-11-28,45.7,64.7,30.19,Rainy
+Chicago,2023-11-29,43.0,49.0,30.12,Cloudy
+Chicago,2023-11-30,52.2,52.6,29.6,Snowy
+Chicago,2023-12-01,47.8,33.5,30.28,Sunny
+Chicago,2023-12-02,52.6,30.1,29.88,Sunny
+Chicago,2023-12-03,39.1,78.5,29.62,Rainy
+Chicago,2023-12-04,39.9,84.3,30.0,Rainy
+Chicago,2023-12-05,47.8,68.0,29.55,Snowy
+Chicago,2023-12-06,41.9,78.8,30.28,Sunny
+Chicago,2023-12-07,49.5,56.1,29.85,Rainy
+Chicago,2023-12-08,52.5,41.6,29.63,Sunny
+Chicago,2023-12-09,51.7,44.8,30.0,Sunny
+Chicago,2023-12-10,40.0,68.8,30.05,Snowy
+Chicago,2023-12-11,47.2,54.0,29.92,Snowy
+Chicago,2023-12-12,54.5,59.5,29.67,Snowy
+Chicago,2023-12-13,42.9,68.7,29.9,Cloudy
+Chicago,2023-12-14,58.9,46.2,30.09,Cloudy
+Chicago,2023-12-15,52.5,63.8,30.45,Sunny
+Chicago,2023-12-16,50.8,47.3,30.44,Snowy
+Chicago,2023-12-17,41.8,39.4,30.14,Cloudy
+Chicago,2023-12-18,57.7,41.2,29.95,Snowy
+Chicago,2023-12-19,49.4,47.6,29.85,Rainy
+Chicago,2023-12-20,57.1,80.3,29.6,Sunny
+Chicago,2023-12-21,57.5,90.0,30.17,Sunny
+Chicago,2023-12-22,53.2,84.5,29.86,Snowy
+Chicago,2023-12-23,49.4,38.6,30.32,Cloudy
+Chicago,2023-12-24,45.9,75.6,30.35,Cloudy
+Chicago,2023-12-25,54.0,45.3,30.11,Cloudy
+Chicago,2023-12-26,53.4,58.6,30.49,Cloudy
+Chicago,2023-12-27,49.6,82.8,29.83,Cloudy
+Chicago,2023-12-28,61.6,57.5,29.75,Sunny
+Chicago,2023-12-29,52.5,55.5,29.96,Sunny
+Chicago,2023-12-30,60.4,88.4,30.41,Cloudy
+Chicago,2023-12-31,61.2,40.7,29.6,Rainy
+Houston,2023-01-01,60.7,61.4,30.07,Rainy
+Houston,2023-01-02,62.9,42.5,29.96,Cloudy
+Houston,2023-01-03,65.5,47.7,29.55,Rainy
+Houston,2023-01-04,57.3,54.9,29.58,Sunny
+Houston,2023-01-05,66.3,80.9,29.51,Cloudy
+Houston,2023-01-06,63.3,38.5,29.53,Sunny
+Houston,2023-01-07,69.8,44.1,29.64,Cloudy
+Houston,2023-01-08,64.1,74.8,29.96,Rainy
+Houston,2023-01-09,54.5,32.1,29.54,Rainy
+Houston,2023-01-10,64.9,33.7,30.27,Sunny
+Houston,2023-01-11,61.4,57.2,30.01,Snowy
+Houston,2023-01-12,65.4,78.5,29.67,Sunny
+Houston,2023-01-13,65.6,56.5,30.15,Sunny
+Houston,2023-01-14,69.7,81.7,29.72,Snowy
+Houston,2023-01-15,57.7,62.1,30.18,Cloudy
+Houston,2023-01-16,68.7,56.7,30.21,Cloudy
+Houston,2023-01-17,69.1,31.8,30.25,Cloudy
+Houston,2023-01-18,67.1,48.1,30.3,Sunny
+Houston,2023-01-19,74.5,49.8,29.59,Sunny
+Houston,2023-01-20,75.8,79.5,29.57,Sunny
+Houston,2023-01-21,71.9,76.0,30.41,Rainy
+Houston,2023-01-22,76.5,59.7,29.71,Rainy
+Houston,2023-01-23,78.6,56.1,29.9,Cloudy
+Houston,2023-01-24,73.3,34.4,29.88,Cloudy
+Houston,2023-01-25,67.7,81.5,29.81,Snowy
+Houston,2023-01-26,73.2,61.5,30.04,Sunny
+Houston,2023-01-27,73.0,85.7,30.09,Cloudy
+Houston,2023-01-28,70.8,41.5,29.72,Snowy
+Houston,2023-01-29,63.6,84.1,30.48,Cloudy
+Houston,2023-01-30,72.1,41.0,29.88,Snowy
+Houston,2023-01-31,78.5,58.3,30.05,Sunny
+Houston,2023-02-01,69.1,49.3,29.72,Rainy
+Houston,2023-02-02,75.3,38.4,30.28,Rainy
+Houston,2023-02-03,84.8,59.7,29.52,Cloudy
+Houston,2023-02-04,82.4,62.9,30.11,Cloudy
+Houston,2023-02-05,77.5,42.6,30.45,Sunny
+Houston,2023-02-06,74.1,84.7,29.9,Cloudy
+Houston,2023-02-07,80.3,31.5,29.81,Rainy
+Houston,2023-02-08,77.8,62.2,30.25,Rainy
+Houston,2023-02-09,79.4,78.1,29.9,Snowy
+Houston,2023-02-10,82.5,82.5,29.63,Sunny
+Houston,2023-02-11,78.3,36.6,30.07,Snowy
+Houston,2023-02-12,79.8,87.7,30.15,Snowy
+Houston,2023-02-13,79.2,59.3,30.08,Rainy
+Houston,2023-02-14,81.1,74.5,29.72,Sunny
+Houston,2023-02-15,85.3,71.6,30.43,Rainy
+Houston,2023-02-16,83.6,75.0,29.77,Sunny
+Houston,2023-02-17,79.3,45.4,30.03,Cloudy
+Houston,2023-02-18,68.8,34.4,30.39,Rainy
+Houston,2023-02-19,84.1,53.5,29.86,Cloudy
+Houston,2023-02-20,82.6,80.7,30.07,Sunny
+Houston,2023-02-21,77.0,62.5,29.77,Sunny
+Houston,2023-02-22,85.3,63.9,29.97,Cloudy
+Houston,2023-02-23,84.2,72.7,29.92,Rainy
+Houston,2023-02-24,92.8,30.2,29.75,Sunny
+Houston,2023-02-25,79.1,45.4,30.23,Sunny
+Houston,2023-02-26,72.8,40.9,29.51,Rainy
+Houston,2023-02-27,93.7,64.0,30.45,Cloudy
+Houston,2023-02-28,82.5,58.6,30.45,Rainy
+Houston,2023-03-01,84.3,43.6,30.35,Snowy
+Houston,2023-03-02,81.5,44.6,30.23,Cloudy
+Houston,2023-03-03,84.4,78.7,30.38,Snowy
+Houston,2023-03-04,84.0,88.1,29.98,Snowy
+Houston,2023-03-05,85.6,52.1,30.33,Cloudy
+Houston,2023-03-06,86.3,62.3,30.16,Snowy
+Houston,2023-03-07,80.6,75.0,29.64,Sunny
+Houston,2023-03-08,92.8,88.4,29.54,Cloudy
+Houston,2023-03-09,87.9,51.9,30.45,Cloudy
+Houston,2023-03-10,90.6,43.9,30.01,Cloudy
+Houston,2023-03-11,91.3,39.9,30.23,Sunny
+Houston,2023-03-12,85.7,40.6,30.13,Sunny
+Houston,2023-03-13,88.6,38.7,30.3,Sunny
+Houston,2023-03-14,86.7,42.6,30.28,Rainy
+Houston,2023-03-15,88.4,53.6,30.11,Sunny
+Houston,2023-03-16,82.8,43.7,30.03,Sunny
+Houston,2023-03-17,86.9,60.9,29.76,Cloudy
+Houston,2023-03-18,90.9,66.4,30.06,Sunny
+Houston,2023-03-19,94.0,31.8,29.78,Rainy
+Houston,2023-03-20,85.1,50.3,30.21,Snowy
+Houston,2023-03-21,85.0,45.6,30.15,Sunny
+Houston,2023-03-22,93.7,51.2,29.98,Rainy
+Houston,2023-03-23,89.5,76.3,29.5,Rainy
+Houston,2023-03-24,89.9,42.8,29.51,Rainy
+Houston,2023-03-25,87.4,56.6,29.99,Cloudy
+Houston,2023-03-26,91.8,60.1,30.42,Rainy
+Houston,2023-03-27,96.8,68.0,29.73,Rainy
+Houston,2023-03-28,84.1,73.0,29.84,Rainy
+Houston,2023-03-29,80.0,72.4,30.17,Cloudy
+Houston,2023-03-30,84.6,50.5,29.91,Rainy
+Houston,2023-03-31,84.5,61.5,30.45,Rainy
+Houston,2023-04-01,98.8,89.2,29.59,Snowy
+Houston,2023-04-02,87.4,62.4,30.28,Rainy
+Houston,2023-04-03,85.7,75.5,29.62,Cloudy
+Houston,2023-04-04,84.9,73.3,30.22,Cloudy
+Houston,2023-04-05,92.0,59.6,29.56,Snowy
+Houston,2023-04-06,90.4,50.6,29.68,Cloudy
+Houston,2023-04-07,100.7,61.5,29.73,Sunny
+Houston,2023-04-08,96.9,32.6,30.07,Cloudy
+Houston,2023-04-09,91.0,69.1,29.98,Cloudy
+Houston,2023-04-10,96.2,61.4,30.05,Cloudy
+Houston,2023-04-11,87.5,81.3,30.09,Cloudy
+Houston,2023-04-12,89.3,81.4,29.6,Sunny
+Houston,2023-04-13,98.7,46.8,30.06,Sunny
+Houston,2023-04-14,89.7,63.4,29.91,Snowy
+Houston,2023-04-15,97.3,50.4,29.61,Sunny
+Houston,2023-04-16,95.6,41.8,29.71,Snowy
+Houston,2023-04-17,87.7,61.5,29.87,Cloudy
+Houston,2023-04-18,84.5,80.0,29.91,Cloudy
+Houston,2023-04-19,92.9,85.9,29.87,Sunny
+Houston,2023-04-20,78.0,42.6,30.09,Rainy
+Houston,2023-04-21,94.7,33.3,29.78,Cloudy
+Houston,2023-04-22,83.7,40.5,30.19,Rainy
+Houston,2023-04-23,92.5,51.6,30.11,Sunny
+Houston,2023-04-24,87.7,37.9,30.46,Rainy
+Houston,2023-04-25,78.1,60.9,30.09,Rainy
+Houston,2023-04-26,87.4,48.0,29.66,Rainy
+Houston,2023-04-27,94.6,54.9,30.34,Rainy
+Houston,2023-04-28,85.8,78.4,29.79,Cloudy
+Houston,2023-04-29,80.5,81.5,29.58,Cloudy
+Houston,2023-04-30,84.0,88.3,30.18,Rainy
+Houston,2023-05-01,97.1,31.5,30.25,Sunny
+Houston,2023-05-02,83.2,45.4,29.53,Rainy
+Houston,2023-05-03,89.3,42.5,30.28,Snowy
+Houston,2023-05-04,91.0,58.8,29.5,Sunny
+Houston,2023-05-05,86.7,69.7,29.81,Cloudy
+Houston,2023-05-06,82.7,84.4,30.48,Rainy
+Houston,2023-05-07,90.1,40.3,30.27,Sunny
+Houston,2023-05-08,82.9,79.9,30.16,Sunny
+Houston,2023-05-09,78.4,61.4,29.99,Rainy
+Houston,2023-05-10,82.9,40.4,30.41,Cloudy
+Houston,2023-05-11,86.9,69.4,29.69,Rainy
+Houston,2023-05-12,76.2,39.5,30.42,Cloudy
+Houston,2023-05-13,74.1,56.9,30.44,Snowy
+Houston,2023-05-14,88.4,45.2,30.26,Sunny
+Houston,2023-05-15,77.1,82.7,29.86,Cloudy
+Houston,2023-05-16,84.9,37.8,30.07,Sunny
+Houston,2023-05-17,82.9,70.7,30.16,Rainy
+Houston,2023-05-18,76.6,65.8,30.34,Snowy
+Houston,2023-05-19,83.5,85.6,30.2,Rainy
+Houston,2023-05-20,81.5,85.1,30.05,Rainy
+Houston,2023-05-21,84.6,48.9,29.55,Rainy
+Houston,2023-05-22,78.7,82.6,29.9,Rainy
+Houston,2023-05-23,77.7,82.5,30.42,Snowy
+Houston,2023-05-24,79.4,31.9,30.4,Rainy
+Houston,2023-05-25,78.0,32.5,30.41,Snowy
+Houston,2023-05-26,77.4,35.6,30.21,Snowy
+Houston,2023-05-27,83.7,46.4,29.5,Sunny
+Houston,2023-05-28,73.2,35.7,29.77,Cloudy
+Houston,2023-05-29,76.0,45.3,30.42,Rainy
+Houston,2023-05-30,73.6,86.5,29.96,Sunny
+Houston,2023-05-31,74.1,32.4,29.89,Rainy
+Houston,2023-06-01,78.0,75.0,30.04,Sunny
+Houston,2023-06-02,71.9,78.1,30.49,Cloudy
+Houston,2023-06-03,63.7,45.2,29.87,Sunny
+Houston,2023-06-04,67.0,75.3,29.59,Cloudy
+Houston,2023-06-05,67.7,34.9,29.8,Cloudy
+Houston,2023-06-06,76.4,61.9,29.77,Snowy
+Houston,2023-06-07,79.8,30.8,30.05,Rainy
+Houston,2023-06-08,70.9,37.9,30.32,Snowy
+Houston,2023-06-09,70.8,60.4,29.88,Cloudy
+Houston,2023-06-10,65.4,53.5,30.4,Cloudy
+Houston,2023-06-11,72.1,71.3,30.24,Snowy
+Houston,2023-06-12,68.6,32.4,29.83,Rainy
+Houston,2023-06-13,72.8,65.3,29.51,Rainy
+Houston,2023-06-14,69.6,89.4,29.77,Snowy
+Houston,2023-06-15,68.2,88.2,29.82,Sunny
+Houston,2023-06-16,66.3,77.4,30.03,Cloudy
+Houston,2023-06-17,68.1,58.0,30.36,Rainy
+Houston,2023-06-18,72.2,56.0,30.07,Sunny
+Houston,2023-06-19,65.0,86.1,30.45,Snowy
+Houston,2023-06-20,72.6,74.8,29.7,Rainy
+Houston,2023-06-21,64.4,83.3,30.14,Sunny
+Houston,2023-06-22,65.9,53.9,29.95,Cloudy
+Houston,2023-06-23,70.0,74.5,30.45,Cloudy
+Houston,2023-06-24,63.1,63.8,29.66,Cloudy
+Houston,2023-06-25,67.9,51.9,30.29,Cloudy
+Houston,2023-06-26,57.2,86.5,29.72,Snowy
+Houston,2023-06-27,63.9,38.8,29.66,Rainy
+Houston,2023-06-28,58.7,81.7,30.35,Sunny
+Houston,2023-06-29,64.3,56.0,29.74,Snowy
+Houston,2023-06-30,57.8,48.6,30.44,Sunny
+Houston,2023-07-01,61.5,84.1,29.51,Cloudy
+Houston,2023-07-02,56.6,49.7,30.03,Rainy
+Houston,2023-07-03,53.7,67.3,29.71,Snowy
+Houston,2023-07-04,68.4,71.6,30.44,Snowy
+Houston,2023-07-05,51.6,46.4,29.67,Cloudy
+Houston,2023-07-06,54.1,73.4,30.41,Sunny
+Houston,2023-07-07,47.8,49.5,29.74,Snowy
+Houston,2023-07-08,62.9,70.0,29.78,Sunny
+Houston,2023-07-09,60.2,51.1,29.56,Snowy
+Houston,2023-07-10,58.7,37.7,29.77,Snowy
+Houston,2023-07-11,59.8,48.1,30.01,Snowy
+Houston,2023-07-12,58.6,53.4,30.11,Cloudy
+Houston,2023-07-13,46.6,37.2,30.41,Cloudy
+Houston,2023-07-14,52.0,38.5,30.21,Cloudy
+Houston,2023-07-15,57.4,47.6,29.56,Snowy
+Houston,2023-07-16,50.5,70.1,29.93,Rainy
+Houston,2023-07-17,49.7,36.1,29.99,Snowy
+Houston,2023-07-18,43.7,54.8,29.92,Sunny
+Houston,2023-07-19,45.3,47.9,30.16,Sunny
+Houston,2023-07-20,59.2,67.7,29.69,Rainy
+Houston,2023-07-21,40.2,62.6,30.17,Cloudy
+Houston,2023-07-22,39.4,43.9,30.37,Snowy
+Houston,2023-07-23,56.1,43.7,29.82,Sunny
+Houston,2023-07-24,43.1,51.1,29.86,Cloudy
+Houston,2023-07-25,50.6,89.0,30.08,Rainy
+Houston,2023-07-26,48.6,49.7,30.45,Sunny
+Houston,2023-07-27,53.1,54.0,29.53,Snowy
+Houston,2023-07-28,45.0,48.2,30.11,Rainy
+Houston,2023-07-29,49.6,42.5,29.82,Sunny
+Houston,2023-07-30,38.9,86.0,29.76,Rainy
+Houston,2023-07-31,49.8,69.9,29.75,Rainy
+Houston,2023-08-01,49.3,48.0,29.78,Rainy
+Houston,2023-08-02,48.9,34.1,29.65,Cloudy
+Houston,2023-08-03,40.7,87.9,29.51,Snowy
+Houston,2023-08-04,41.5,66.8,29.73,Sunny
+Houston,2023-08-05,44.3,49.1,30.05,Rainy
+Houston,2023-08-06,41.0,48.4,30.33,Rainy
+Houston,2023-08-07,46.0,69.9,29.71,Snowy
+Houston,2023-08-08,46.7,46.9,29.8,Sunny
+Houston,2023-08-09,48.6,38.5,30.21,Sunny
+Houston,2023-08-10,44.7,47.8,29.56,Rainy
+Houston,2023-08-11,45.2,86.7,30.28,Sunny
+Houston,2023-08-12,36.5,68.4,30.27,Sunny
+Houston,2023-08-13,42.2,64.7,29.73,Sunny
+Houston,2023-08-14,35.0,76.0,29.57,Cloudy
+Houston,2023-08-15,41.5,80.0,29.64,Sunny
+Houston,2023-08-16,38.1,60.2,29.96,Cloudy
+Houston,2023-08-17,41.8,40.7,30.36,Rainy
+Houston,2023-08-18,47.5,78.0,29.99,Rainy
+Houston,2023-08-19,38.5,86.8,29.64,Sunny
+Houston,2023-08-20,45.5,41.1,30.46,Rainy
+Houston,2023-08-21,40.8,65.9,30.3,Snowy
+Houston,2023-08-22,38.7,88.1,29.82,Cloudy
+Houston,2023-08-23,34.7,76.2,29.93,Rainy
+Houston,2023-08-24,39.5,86.2,29.59,Cloudy
+Houston,2023-08-25,32.4,88.9,29.85,Cloudy
+Houston,2023-08-26,37.8,33.9,29.93,Snowy
+Houston,2023-08-27,28.4,85.1,29.95,Cloudy
+Houston,2023-08-28,37.0,82.1,29.88,Rainy
+Houston,2023-08-29,38.2,75.3,30.11,Rainy
+Houston,2023-08-30,30.3,48.8,30.1,Cloudy
+Houston,2023-08-31,40.9,89.4,29.91,Rainy
+Houston,2023-09-01,26.4,89.4,29.95,Rainy
+Houston,2023-09-02,38.5,45.2,30.26,Rainy
+Houston,2023-09-03,31.7,83.0,30.47,Snowy
+Houston,2023-09-04,24.9,82.9,29.92,Snowy
+Houston,2023-09-05,35.0,59.3,30.39,Sunny
+Houston,2023-09-06,38.0,53.9,29.62,Snowy
+Houston,2023-09-07,29.6,71.0,30.08,Rainy
+Houston,2023-09-08,33.8,75.5,30.03,Rainy
+Houston,2023-09-09,28.3,56.8,30.19,Sunny
+Houston,2023-09-10,36.3,51.9,29.6,Snowy
+Houston,2023-09-11,26.7,56.9,29.83,Sunny
+Houston,2023-09-12,39.0,88.8,29.96,Sunny
+Houston,2023-09-13,35.8,55.6,29.83,Cloudy
+Houston,2023-09-14,32.9,77.1,29.8,Rainy
+Houston,2023-09-15,35.5,72.3,29.92,Snowy
+Houston,2023-09-16,41.4,31.1,30.36,Sunny
+Houston,2023-09-17,26.4,61.3,29.93,Cloudy
+Houston,2023-09-18,26.0,36.0,29.92,Cloudy
+Houston,2023-09-19,43.4,38.6,30.06,Snowy
+Houston,2023-09-20,24.3,67.6,29.84,Cloudy
+Houston,2023-09-21,31.5,45.7,30.15,Cloudy
+Houston,2023-09-22,32.8,81.5,29.56,Rainy
+Houston,2023-09-23,32.0,62.4,29.72,Snowy
+Houston,2023-09-24,28.5,66.6,30.23,Cloudy
+Houston,2023-09-25,25.4,55.1,29.76,Sunny
+Houston,2023-09-26,31.1,64.6,29.67,Rainy
+Houston,2023-09-27,24.4,64.4,30.44,Cloudy
+Houston,2023-09-28,34.1,86.4,29.79,Cloudy
+Houston,2023-09-29,28.1,50.9,30.47,Rainy
+Houston,2023-09-30,31.6,53.9,29.77,Snowy
+Houston,2023-10-01,30.8,82.8,29.86,Cloudy
+Houston,2023-10-02,19.8,83.0,29.66,Sunny
+Houston,2023-10-03,41.9,30.2,30.43,Rainy
+Houston,2023-10-04,30.3,52.9,30.24,Snowy
+Houston,2023-10-05,36.1,78.0,30.44,Cloudy
+Houston,2023-10-06,27.7,71.2,29.52,Snowy
+Houston,2023-10-07,33.3,52.1,29.84,Rainy
+Houston,2023-10-08,34.7,80.3,30.06,Sunny
+Houston,2023-10-09,31.6,51.0,29.72,Cloudy
+Houston,2023-10-10,28.5,84.4,30.01,Snowy
+Houston,2023-10-11,26.3,57.1,29.6,Cloudy
+Houston,2023-10-12,36.6,58.9,29.95,Cloudy
+Houston,2023-10-13,28.2,37.3,30.37,Rainy
+Houston,2023-10-14,31.3,40.8,30.22,Sunny
+Houston,2023-10-15,38.7,61.5,29.72,Rainy
+Houston,2023-10-16,29.8,79.3,29.62,Rainy
+Houston,2023-10-17,24.9,37.4,29.58,Cloudy
+Houston,2023-10-18,24.9,78.5,29.76,Rainy
+Houston,2023-10-19,25.0,83.3,30.31,Rainy
+Houston,2023-10-20,33.4,56.6,29.59,Rainy
+Houston,2023-10-21,22.8,59.7,30.0,Cloudy
+Houston,2023-10-22,35.1,83.7,30.22,Rainy
+Houston,2023-10-23,23.8,50.1,30.36,Rainy
+Houston,2023-10-24,32.5,70.7,29.97,Sunny
+Houston,2023-10-25,31.2,78.7,30.26,Rainy
+Houston,2023-10-26,22.5,60.9,29.63,Rainy
+Houston,2023-10-27,34.2,37.8,29.82,Rainy
+Houston,2023-10-28,32.2,78.3,29.88,Rainy
+Houston,2023-10-29,36.1,37.7,29.59,Rainy
+Houston,2023-10-30,34.4,84.2,29.74,Sunny
+Houston,2023-10-31,31.0,43.0,30.43,Cloudy
+Houston,2023-11-01,39.8,32.2,30.42,Rainy
+Houston,2023-11-02,38.6,34.2,30.29,Cloudy
+Houston,2023-11-03,31.7,36.9,29.57,Rainy
+Houston,2023-11-04,33.4,57.0,30.08,Snowy
+Houston,2023-11-05,26.3,84.6,30.22,Rainy
+Houston,2023-11-06,37.5,76.1,30.34,Sunny
+Houston,2023-11-07,39.7,89.2,30.32,Snowy
+Houston,2023-11-08,35.6,61.6,30.18,Cloudy
+Houston,2023-11-09,34.9,78.9,29.86,Cloudy
+Houston,2023-11-10,39.8,75.7,29.93,Sunny
+Houston,2023-11-11,36.9,87.0,30.5,Sunny
+Houston,2023-11-12,35.0,62.3,30.39,Cloudy
+Houston,2023-11-13,43.5,77.7,30.28,Cloudy
+Houston,2023-11-14,43.4,87.1,29.58,Cloudy
+Houston,2023-11-15,32.9,50.2,29.64,Sunny
+Houston,2023-11-16,32.6,37.0,30.08,Snowy
+Houston,2023-11-17,37.5,43.1,29.66,Cloudy
+Houston,2023-11-18,42.5,46.9,30.31,Cloudy
+Houston,2023-11-19,35.9,33.5,30.23,Rainy
+Houston,2023-11-20,48.5,40.4,29.79,Snowy
+Houston,2023-11-21,38.6,85.7,29.76,Rainy
+Houston,2023-11-22,33.3,89.1,30.06,Rainy
+Houston,2023-11-23,53.7,38.9,30.14,Snowy
+Houston,2023-11-24,38.3,45.4,29.7,Rainy
+Houston,2023-11-25,42.9,37.0,30.19,Snowy
+Houston,2023-11-26,35.3,69.1,29.63,Sunny
+Houston,2023-11-27,39.4,45.2,29.81,Cloudy
+Houston,2023-11-28,47.5,33.6,29.52,Sunny
+Houston,2023-11-29,47.8,54.6,29.69,Rainy
+Houston,2023-11-30,36.1,37.8,30.0,Rainy
+Houston,2023-12-01,46.9,48.4,29.98,Sunny
+Houston,2023-12-02,42.1,82.7,30.33,Sunny
+Houston,2023-12-03,49.9,47.6,29.82,Rainy
+Houston,2023-12-04,37.7,89.7,29.54,Sunny
+Houston,2023-12-05,50.6,30.3,29.54,Snowy
+Houston,2023-12-06,48.7,32.2,29.93,Sunny
+Houston,2023-12-07,50.5,42.9,29.9,Sunny
+Houston,2023-12-08,46.0,35.1,30.44,Snowy
+Houston,2023-12-09,52.6,71.7,29.61,Sunny
+Houston,2023-12-10,50.6,56.9,30.16,Cloudy
+Houston,2023-12-11,54.0,33.1,29.51,Sunny
+Houston,2023-12-12,57.0,87.9,29.65,Rainy
+Houston,2023-12-13,50.7,89.2,29.81,Sunny
+Houston,2023-12-14,44.3,48.3,30.48,Snowy
+Houston,2023-12-15,48.7,73.7,30.17,Snowy
+Houston,2023-12-16,56.4,69.6,29.73,Sunny
+Houston,2023-12-17,56.8,79.1,29.51,Cloudy
+Houston,2023-12-18,55.8,57.0,30.26,Rainy
+Houston,2023-12-19,61.2,58.6,29.63,Snowy
+Houston,2023-12-20,50.3,46.7,30.17,Sunny
+Houston,2023-12-21,59.1,89.7,29.61,Rainy
+Houston,2023-12-22,57.4,72.1,30.47,Rainy
+Houston,2023-12-23,51.4,86.5,29.69,Snowy
+Houston,2023-12-24,62.4,43.3,29.84,Rainy
+Houston,2023-12-25,57.6,75.4,29.81,Snowy
+Houston,2023-12-26,66.5,84.6,29.69,Sunny
+Houston,2023-12-27,49.7,47.4,29.84,Rainy
+Houston,2023-12-28,60.4,41.9,30.29,Cloudy
+Houston,2023-12-29,56.8,76.3,30.42,Rainy
+Houston,2023-12-30,61.9,68.0,30.34,Sunny
+Houston,2023-12-31,61.4,40.4,29.51,Snowy

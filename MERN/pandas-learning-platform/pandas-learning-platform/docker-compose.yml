@@ -1,0 +1,86 @@
+
+services:
+  # MySQL Database Service
+  mysql:
+    image: mysql:8.0
+    container_name: pandas_learning_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: inertone
+      MYSQL_DATABASE: pandas_learning
+      MYSQL_USER: pandas_user
+      MYSQL_PASSWORD: pandas_pass
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./database/mysql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - pandas_network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 10s
+      retries: 5
+      interval: 30s
+
+  # Backend API Service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pandas_learning_backend
+    restart: always
+    environment:
+      NODE_ENV: development
+      PORT: 5000
+      FRONTEND_URL: http://localhost:3000
+      JWT_SECRET: your-super-secret-jwt-key-change-in-production
+      JWT_EXPIRE: 7d
+      DB_HOST: mysql
+      DB_USER: pandas_user
+      DB_PASSWORD: pandas_pass
+      DB_NAME: pandas_learning
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - pandas_network
+    depends_on:
+      mysql:
+        condition: service_healthy
+    command: npm run dev
+
+  # Frontend Next.js Service
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: pandas_learning_frontend
+    restart: always
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:5000/api
+      NEXT_PUBLIC_APP_NAME: Pandas Learning Platform
+      NEXT_PUBLIC_APP_URL: http://localhost:3000
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    networks:
+      - pandas_network
+    depends_on:
+      - backend
+    command: npm run dev
+
+# Named Volumes
+volumes:
+  mysql_data:
+    driver: local
+
+# Networks
+networks:
+  pandas_network:
+    driver: bridge
